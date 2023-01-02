@@ -12,8 +12,8 @@
                         </a>
                     </h3>
                     <% if (page.path != 'index.html') { %>
-                        <% } else { %>
                         <a href="<%- url_for() %>">↶ Return</a>
+                        <% } else { %>
                         <% } %>
                     <%- partial('common/search') %>
                     <br>
