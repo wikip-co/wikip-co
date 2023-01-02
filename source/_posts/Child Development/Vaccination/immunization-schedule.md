@@ -14,13 +14,11 @@ tags:
 ---
 ## Background Info
 
-The total cost of immunization programs is $269.8 billion (95% confidence interval: $247.1 - $311.8), of which $152.8 billion is considered as routine vaccine cost, $114.9 billion is routine delivery cost.[^1]
+The average immunization cost per child across all countries is $192.6. Total costs worldwide range up to $552.2 billion.[^1]
 
-The incremental cost of achieving coverage goals after 2020 is $89.9 billion ($27.7-$110.1), with upper-middle income countries requiring the largest increase in investment (56.2% of incremental costs).[^1]
+The incremental cost of vaccination after 2020 is ~$89.9 billion.[^1]
 
-The average immunization cost per child across all countries is $192.6. Scenario analysis using the minimum and maximum vaccines price for fully self-financing countries resulted in total costs ranging from $193.6 and $552.2 billion.[^1]
-
-The immunization program cost among 194 WHO member countries is expected to increase during this decade. The strategy for resource mobilization and increasing investment from country governments and donors are essential to achieving IA2030 coverage and ensuring sustainable immunization programs.[^1]
+The immunization program cost World Health Organization member countries is expected to increase during this decade. The strategy for increasing investment from country governments and donors are essential to achieving Immunization Agenda 2030 coverage levels and ensuring sustainable immunization programs.[^1]
 
 ### Maternally Acquired Antibodies
 
