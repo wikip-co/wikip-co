@@ -16,9 +16,11 @@ tags:
 
 The average immunization cost per child across all countries is $192.6. Total costs worldwide range up to $552.2 billion.[^1]
 
-The incremental cost of vaccination after 2020 is ~$89.9 billion.[^1]
+The incremental increase in cost of vaccination after 2020 was ~$89.9 billion.[^1]
 
-The immunization program cost World Health Organization member countries is expected to increase during this decade. The strategy for increasing investment from country governments and donors are essential to achieving Immunization Agenda 2030 coverage levels and ensuring sustainable immunization programs.[^1]
+The immunization program's cost to World Health Organization member countries is expected to increase during this decade.[^1]
+
+The strategy for increasing investment from country governments and donors is essential to achieving Immunization Agenda 2030 and ensuring sustainable immunization programs.[^1]
 
 ### Maternally Acquired Antibodies
 
