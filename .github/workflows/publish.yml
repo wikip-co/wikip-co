@@ -3,8 +3,8 @@ name: Publish to Cloudflare
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
+    paths:
+      - '**.md'
 permissions: write-all
 env:
   GITHUB_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN }}
