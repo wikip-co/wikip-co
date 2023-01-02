@@ -1,12 +1,802 @@
-# Example Metadata Dictionary
+Absorption: >
+  Absorption refers to the process of digestion and the body's ability to extract nutrients from food.
+Acetylcholinesterase inhibitor: >
+  Cholinesterase inhibitors (also called acetylcholinesterase inhibitors) are a group of medicines that block the normal breakdown of acetylcholine. Acetylcholine is the main neurotransmitter found in the body and has functions in both the peripheral nervous system and the central nervous system.
+Acne: >
+  Acne is a skin condition (disease) characterized by hair follicles  which become plugged with oil and dead skin cells.
+Adaptogen: >
+  Adaptogens are non-toxic items which invigorate and strengthen the body to help it adapt to and increase its resistance to physical, chemical, and mental stress.
+ADD: >
+  ADD refers to Attention Defecit Disorder, which involves symptoms of inattention, distractibility, and poor working memory.
+ADHD: >
+  ADHD refers to Attention Defecit Hyperactivity Disorder, which involves symptoms of inattention, distractibility, and poor working memory in addition to experiencing symptoms of hyperactivity and impulsivity.
+Adiposity: >
+  Adiposity refers to being severely overweight, or obese.
+Alkalizing: >
+  Alkalizing refers to an items ability to reduce the acidity of the body. 
+Allergenic: >
+  Allergenics are items which help decrease the immune response to allergens.
+Allergies: >
+  Allergies are hypersensitive damaging immune responses in the body.
+Alpha-Glucosidase inhibitor: >
+  Alpha-glucosidase inhibitors (AGIs) are items that prevent the digestion of carbohydrates by acting as competitive inhibitors of the enzymes needed to digest carbohydrates.
+  Alpha-glucosidase inhibitors reduce the impact of dietary carbohydrates on blood sugar.
+  There are a large number of natural products with alpha-glucosidase inhibitor action.
+Alzheimer's: &Alzheimer >
+  Alzheimer's is a progressive brain disorder that can cause dementia and eventually death.
+  The disease is characterized by the development of abnormal clumps in the brain called amyloid plaques and tangled bundles of fibers called neurofibrillary, or tau, tangles.
+Alzheimer's Disease: *Alzheimer
 Amazon Web Services: &AWS >
   Amazon Web Services (AWS) is an on-demand cloud computing platform offered to individuals, companies, and governments, on a metered pay-as-you-go basis. 
 AWS: *AWS
+Amino Acids: >
+  Amino acids are organic compounds and are the structural units that make up proteins.
+  The key elements of an amino acid are carbon, hydrogen, oxygen, and nitrogen, although other elements are found in certain amino acids.
+Amnesia: >
+  Amnesia refers to the loss of memories, such as facts, information and experiences.
+Anabolic: >
+  Anabolic is an agent having steroidal action.
+Analeptic: >
+  Analeptic is any agent used to boost respiration and circulation.
+Analgesic: >
+  Analgesics are items with the ability to provide relief from pain without causing sleep or loss of consciousness.
+Anesthetic: >
+  Topical anesthetics numb and reduce the sensation of pain in the area to which they are applied.
+Angiogenesis: >
+  Angiogenesis is the formation of new blood vessels; controlled by chemical signals in the body.
+  This process is closely related to neovascularization and revascularization (therapeutic angiogenesis).
+Angiogenic: >
+  Angiogenic items are agents that promote the growth of capillary buds and sprouts from pre-existing blood vessels.  
+Anodyne: >
+  Anodyne is an agent that relieves pain on local application.
+Anorexigenic: >
+  Anorexic (or anorectic) is an item which reduces appetite.
+Ansible Galaxy: >
+  Ansible Galaxy is a repository for Ansible Roles that are available to drop directly into your Playbooks to streamline your automation projects. 
+Anthropology: >
+  Anthropology is the scientific study of humanity which inlcudes behavior, biology, cultures, societies, and past human species.
+  Social anthropology focuses on patterns of behaviour, and cultural anthropology studies cultural norms, values, and meaning.
+Antiadipogenic: >
+  Antiadipogenic refers to items that counter adipogenesis (the creation of new fat cells).
+Anti-Aflatoxigenic: >
+  Anti-Aflatoxigenic refers to items which have demonstrated an ability to protect against aflatoxins.
+  Aflatoxins are a family of mycotoxins, produced by molds of the Aspergillus genus, that can be toxic, carcinogenic, mutagenic or teratogenic; typically found as contaminants of animal food or peanuts.
+Antiaging: >
+  Anti-Aging refers to items which help slow-down, prevent, and reverse the adverse effects of ageing.
+Antianxiety: >
+  Antianxiety (or anxiolytic) refers to an item that can inhibit anxiety.
+Antiarrhythmic: >
+  Antiarrhythmic is an agent used for treatment of heart disease.
+  Antiarrhythmic agents are used to suppress abnormal rhythms of the heart (cardiac arrhythmias), such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation.
+Antibacterial: >
+  An antibacterial is a type of antimicrobial that is active against bacteria and is used for fighting and prevention of bacterial infections.
+  They may either kill or inhibit the growth of bacteria.
+Antibiotic: >
+  An antibiotic is a type of antimicrobial that is active against bacteria and is used for fighting and prevention of bacterial infections.
+  They may either kill or inhibit the growth of bacteria.
+Antibody Production: >
+  The production of antibodies is the main function of the humoral immune system.
+Anticancer: >
+  Anticancer, also called antineoplastic, is any item that is effective in the treatment of malignant, or cancerous, disease.
+Anticholinesterase: >
+  Items that inhibit the enzyme acetylcholinesterase from breaking down the neurotransmitter acetylcholine into choline and acetate, thereby increasing the level and duration of action of acetylcholine in the central nervous system, autonomic ganglia and neuromuscular junctions, which are rich in acetylcholine receptors.
+Anticoagulant: >
+  Anticoagulant is an agent used for preventing blood clotting.
+Anticonvulsant: >
+  Anticonvulsants are items shown to have an ability to treat epileptic seizures. 
+Anticonvulsive: >
+  Anticonvulsive refers to an item's ability to treat epileptic seizures.
+Antidepressant: >
+  Antidepressant is an agent used for counteracting depression.
+Antidiabetic: >
+  Antidiabetic refers to items which are effective at treating diabetes.
+Antiemetic: >
+  Antiemetic is an item that is effective against vomiting and nausea.
+  Antiemetics are typically used to treat motion sickness and the side effects of opioid analgesics, general anaesthetics, and chemotherapy directed against cancer.
+Anti-Epileptic: >
+  Antiepileptics are items used in the treatment of epileptic seizures.
+Antiepileptic: >
+  Antiepileptics are items used in the treatment of epileptic seizures.
+Antifungal: >
+  Antifungal (antimycotic, fungicide) refers to items which have been shown to treat and prevent fungal infections.
 Antiglycation: &Glycation >
   Glycation is a biological reaction related to hyperglycemia and diabetes that results in the formation of damaging free radicals.
   Antiglycation refers to the ability to remove free radicals and glycation end products.
 Anti-Glycation: *Glycation
+Antihelminthic: >
+  Antihelminthic is an agent used to kill worms.
+Antihistamine: >
+  Antihistamines treat conditions caused by too much histamine, a chemical created by the body’s immune system.
+  Antihistamines are most commonly used by people who have allergic reactions (allergic rhinitis) to pollen and other allergens.
+Antihyperglycemic: >
+  Antihyperglycemic refers to items which help treat diabetes, specifically high blood sugar (hyperglycemia).
+Antihypertensive: >
+  Antihypertensives are items that can be used to treat hypertension (high blood pressure).
+  Antihypertensive therapy seeks to prevent the complications of high blood pressure, such as stroke and myocardial infarction.
+  Reduction of blood pressure can decrease the risk of stroke, ischaemic heart disease, and reduce the likelihood of dementia, heart failure, and mortality from cardiovascular disease.
+Anti-Hyperuricemic: >
+  Hyperuricemia or hyperuricemia is an abnormally high level of uric acid in the blood.
+Anti-Infection: &Infection >
+  (Anti-Infective) An item that is capable of acting against infection, either by inhibiting the spread of infectious organisms or by killing the infectious organisms.
+Antiinfection: *Infection
+Antiinflammatory: &Antiinflammatory >
+  Antiinflammatory is the property of a substance or treatment that reduces inflammation or swelling.
+Anti-Inflammatory: *Antiinflammatory
+Antilipemic: >
+  Antilipemic (lipid-lowering, hypolipidemic, or antihyperlipidemic) refers to items that prevent or counteract the accumulation of fatty substances in the blood.
+Antilithiatic: >
+  Antilithiatic is the ability to prevent the formation of, or relieve the symptoms of kidney stones.
+Antimicrobial: >
+  Antimicrobial is the ability to kill microorganisms or stop their growth.
+Antimutagenic: >
+  Antimutagenic agents (also called antigens) are items that protect against physical or chemical changes (mutations) to our genetic material, usually our DNA.
+Antineoplastic: >
+  Antineoplatic is the ability to prevent, inhibit or halt the development of a neoplasm (a tumor).
 Antinociceptive: >
   Antinociceptive is the ability to inhibit the sensation of pain.
   Nociception is the sensory nervous system's response to certain harmful or potentially harmful stimuli.
   Antinociception refers to the action or process of blocking the detection of a painful or injurious stimulus by sensory neurons.
+Antiobesity: >
+  Antiobesity refers to items which have been shown to promote weight loss and/or weight regulation.
+Antiosteoperosis: >
+  Antiosteoperosis refers to items which have been shown to be beneficial in the treatment of osteoporosis. 
+Antioxidant: >
+  Antioxidants are naturally occurring compounds that help prevent biological damage at a cellular level.
+Antiphlogistic: >
+  An antiphlogistic agent acts against inflammation or fever (aka anti-inflammatory).
+Antiplatelet: >
+  Antiplatelet refers to items that decrease platelet (blood cell) aggregation.
+  They inhibit thrombus formation (blood clots that forms in a specific location within a blood vessel, like the deep veins in the legs) and promote arterial circulation.
+Antiproliferative: >
+  Antiproliferatives are item used to inhibit cell growth in tumor cells.
+Antiprotozoal: >
+  Antiprotozoal agents are used in the treatment of protozoan infections.
+  Protozoans have little in common with each other so agents effective against one pathogen may not be effective against another.
+  Common protozoal infections include amebiasis, giardiasis, cryptosporidiosis, microsporidiosis, malaria, babesiosis, trypanosomiasis, Chagas disease, leishmaniasis, and toxoplasmosis.
+Antirheumatic: >
+  Antirheumatic an agent used for curing arthritis and rheumatism.
+Anti-Seizure: Anti-Seizure refers to anticonvulsive properties. 
+Antispasmodic: Antispasmodic is a an agent that suppresses muscle spasms.
+Antit2dm: &antit2dm >
+  Anti-T2DM refers to Anti-Type-2-Diabetes
+Anti-T2DM: *antit2dm
+Antithrombotic: >
+  An antithrombotic agent is a drug that reduces the formation of blood clots.
+  Antithrombotics can be used therapeutically for prevention or treatment of a dangerous blood clot.
+Antimalarial: >
+  Antimalarials are a type of antiparasitic agent that can be used to treat or to prevent malaria.
+  Malaria is a disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes.
+  The severity of malaria varies based on the species of plasmodium.
+  Symptoms are chills, fever, and sweating, usually occurring a few weeks after being bitten.
+Antitrematocidal: &Antitrematocidal >
+  Antitrematocidal (also called Antitrematodal) refers to an item's ability to treat or prevent trematodes (parasitic flatworms).
+Antitrematodal: *Antitrematocidal
+Antitumor: >
+  Antitumor refers to items which have been shown to inhibit the growth of tumors.
+Antiviral: >
+  Antivirals are items used for treating viral infections.
+  Most antivirals are used for specific types of viral infections, some items have broad-spectrum antiviral effectiveness against a wide range of viruses.
+Anxiety: >
+  Anxiety is an emotion that causes feelings of excessive uneasiness, tension, worried thoughts, and apprehension.
+  Severe anxiety may also cause physical changes like increased blood pressure, panic attacks, profuse sweating, nausea, and compulsive behaviors.
+Anxiolytic: >
+  Anxiolytics are items which can be used to prevent and treat anxiety. 
+Aphrodisiac: >
+  Aphrodisiacs are items that stimulate sexual desire and performance.
+Apoptosis: >
+  Apoptosis is an essential biological process whereby cells undergo a programmed death.
+  Items in this section have been shown to help modulate this process by triggering apoptosis in diseased or cancerous cells.
+Arthritis: >
+  Arthritis is painful inflammation and stiffness of the joints.
+  The most common types of arthritis are osteoarthritis and rheumatoid arthritis.
+Asthma: >
+  Asthma (also called, bronchial asthma) is a condition in which a person's airways become inflamed, narrow and swell, and produce extra mucus, which makes it difficult to breathe.
+Astringent: >
+  An astringent is a chemical that shrinks or constricts body tissues (typically the skin).
+Arteriosclerosis: >
+  Arteriosclerosis occurs when the blood vessels that carry oxygen and nutrients from your heart to the rest of your body (arteries) become thick and stiff — sometimes restricting blood flow to your organs and tissues.
+  Healthy arteries are flexible and elastic, but over time, the walls in your arteries can harden, a condition commonly called hardening of the arteries.
+Atherosclerosis: >
+  Atherosclerosis is a disease in which plaque builds up inside the arteries (blood vessels that carry oxygen-rich blood to the heart and other organs).
+  The plaque is made up of fat, cholesterol, calcium, and other substances found in the blood.
+  Over time, plaque hardens and narrows the arteries.
+  The plaque can also burst, leading to a blood clot.
+Atherogenesis: >
+  Atherogenesis is the process of forming plaques in the intima layer of arteries.
+Antiatherogenic: >
+  Antiatherogenic refers to preventing or inhibiting atherogenesis (hardening/narrowing of the arteries).
+Anti-Atherogenic: >
+  Antiatherogenic refers to preventing or inhibiting atherogenesis (hardening/narrowing of the arteries).
+Berries: >
+  The common usage of the term berry may refer to many fruits such as grapes, raspberries, strawberries, mulberries, and blackberries.
+Bioenhancer: >
+  Bioenhancers are chemical entities which promote and augment the bioavailability of the drugs that are mixed with them and do not exhibit a synergistic effect with the drug.
+Blockchain: >
+  A system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.
+Blood Health: >
+  Blood health refers to items that promote optimal blood function.
+Blood Pressure: >
+  Blood pressure is the pressure of circulating blood on the walls of blood vessels.
+Blood Sugar: >
+  Blood Sugar refers to the concentration of glucose in the blood.
+Blood Vessels: >
+  Blood Vessels are tubular structures which carry blood through the tissues and organs.
+  A blood vessel could be a vein, artery, or capillary.
+Bone Health: >
+  In healthy adults, bone is undergoing constant repair and renewal.
+  New bone is deposited by osteoblast cells and resorbed or destroyed by osteoclast cells.
+  Bone health can be measured by monitoring Bone Mineral Density (BMD), PH Level Homeostasis, and Homocysteine Levels.
+Bone Loss: >
+  Bone loss can lead to low bone density (osteopenia), weakness of the bone, and eventually osteoporosis.
+  This can lead to bone fractures (broken bones), even with minimal trauma.
+  Osteoporosis (or porous bone) is a disease in which bones become weak and fragile.
+Bone Regeneration: >
+  Bone regeneration is a complex, well-orchestrated physiological process of bone formation, which can be seen during normal fracture healing, and is involved in continuous remodelling throughout adult life.
+Brain Health: >
+  Brain health refers to items which promote optimal cognitive functioning.
+  This includes adequate blood flow.
+Brain Plasticity: >
+  Neuroplasticity, also known as brain plasticity and neural plasticity, is the ability of the brain to change throughout an individual's life.  Examples of this are brain activities which can migrate to different locations in the brain, the proportion of grey matter can change, and synapses that may strengthen or weaken over time.
+Breast Cancer: >
+  A cancer that forms in the cells of the breasts.
+Cancer: >
+  A disease in which abnormal cells divide uncontrollably and destroy body tissue.
+Candida: >
+  Candida (also called, candidiasis) is a fungal (yeast) infection typically on the skin or mucous membranes.
+Cardioprotective: >
+  Cardioprotective (or Cardioprotection) includes all mechanisms and means that contribute to the preservation of the heart by reducing or even preventing myocardial damage.
+Cardiovascular Disease: >
+  Cardiovascular disease refers to heart conditions that include diseased vessels, structural problems, and blood clots.
+  The most common types include Coronary Artery Disease, High Blood Pressure, Cardiac Arrest, Congestive Heart Faliure, Arrhythmia, Peripheral Artery Disease, Stroke, and Congenital Heart Disease.
+Cardiovascular Health: >
+  Cardiovascular health refers to the health of the heart and blood vessels, also known as the circulatory system.
+Carminative: >
+  A carminative, also known as carminativum, is a herb or preparation intended to either prevent formation of gas in the gastrointestinal tract or facilitate the expulsion of said gas, thereby combatting flatulence.
+Carotenoids: >
+  Carotenoids, also called tetraterpenoids, are yellow, orange, and red organic pigments that are produced by plants and algae, as well as several bacteria, and fungi.
+  There are over 1,100 known carotenoids.
+Cathartic: >
+  Cathartic is an agent used to relieve severe constipation.
+Central Bank Digital Currency: &CBDC >
+  Central Bank Digital Currency (CBDC) is a digital form of fiat money.
+  The present concept of CBDCs was directly inspired by Bitcoin and similar blockchain-based cryptocurrencies.
+CBDC: *CBDC
+Cerebral Stimulant: >
+  Items which excite mental functions and stimulate the brain.
+Cerebrovascular Disease: >
+  Cerebrovascular disease refers to a group of conditions, diseases, and disorders that affect the blood vessels and blood supply to the brain.
+  If a blockage, malformation, or hemorrhage prevents the brain cells from getting enough oxygen, brain damage can result.
+  Cerebrovascular disease includes stroke, carotid stenosis, vertebral stenosis and intracranial stenosis, aneurysms, and vascular malformations.
+  Hypertension (high blood pressure) is the most important contributing risk factor for stroke and cerebrovascular diseases as it can change the structure of blood vessels and result in atherosclerosis.
+Cervix Carcinoma: >
+  The development of abnormal cells in the narrow neck of a woman's uterus (the cervix).
+Chemoimmunotherapy: >
+  Chemoimmunotherapy is chemotherapy combined with immunotherapy.
+  Chemotherapy uses different drugs to kill or slow the growth of cancer cells;
+  immunotherapy uses treatments to stimulate or restore the ability of the immune system to fight cancer.
+Chemoprotective: >
+  In the treatment of cancer, chemoprotective agents are items which protect healthy tissue from the toxic effects of anticancer drugs.
+Chemopreventive: >
+  Chemopreventive agents are natural or synthetic agents able to reverse, suppress, or prevent either the initial phases of carcinogenesis or the progression of premalignant cells to invasive disease.
+Cholagogue: >
+  Cholagogue is an agent used to promote the flow of bile.
+Choleretic: >
+  Choleretic is an agent that stimulates the formation of bile.
+Circulation: >
+  Circulation is the movement of blood through the vessels of the body induced by the pumping action of the heart
+Circulatory Stimulant: >
+  Circulatory stimulants aid in the circulation of the blood.
+  They help to increase blood flow to and from tissues and organs.
+Cirrhosis: >
+  Cirrhosis is the severe scarring of the liver and poor liver function seen at the terminal stages of chronic liver disease. The scarring is most often caused by long-term exposure to toxins such as alcohol or viral infections.
+Cognition: >
+  Cognition refers to cognitive function, which is basically thinking and processing information this also includes executive functions, memory, creativity, and relateds to motivation.
+Cognitive Decline: >
+  Cognitive decline (also called cognitive impairment) involves problems with memory, language, thinking and judgment that can develop into dementia.
+Colitis: >
+  Colitis is a chronic digestive disease characterized by inflammation of the inner lining of the colon.
+Collagen Production: >
+  Collagen is the most abundant protein in mammals.  It is found in the bone, cartilage, tendons, skin, and other connective tissus. Collagen is also found in corneas, blood vessels, the gut, intervertebral discs, and the dentin in teeth.
+Colon Cancer: >
+  A cancer of the colon, located at the digestive tract's lower end.
+Colorectal Cancer: >
+  A cancer of the colon or rectum, located at the digestive tract's lower end.
+Common Cold: >
+  A common viral infection of the nose and throat.
+Configuration management: &configmanagement >
+  Configuration management is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
+  Software configuration management (SCM) is the task of tracking and controlling changes in the software.
+  SCM practices include revision control and the establishment of baselines.
+  If something goes wrong, SCM can determine what was changed and who changed it.
+  If a configuration is working well, SCM can determine how to replicate it across many hosts.
+Configuration Management: *configmanagement
+Constipation: >
+  Constipation refers to infrequent bowel movements or difficult passage of stools.
+Convolution Neural Network: >
+  A convolutional neural network (also known as a shift invariant or space invariant artificial neural network) is a class of deep neural network, most commonly applied to analyzing visual imagery.
+  The term convolution refers to the mathematical combination of two functions to produce a third function.
+  It merges two sets of information.
+Coronary Artery Disease: >
+  Damage or disease in the heart's major blood vessels.
+Cybernetics: >
+  Cybernetics involves the study of how things processes information, react to information, and how things change or can be changed to better accomplish the first two tasks. Cybernetics includes the study of feedback, black boxes, machines and organizations including self-organization.
+Cytoprotective: >
+  Cytoprotection is a process by which chemical compounds provide protection to cells against harmful agents. 
+Dementia: >
+  Dementia is not a specific disease. It's an overall term that describes a group of symptoms associated with a decline in memory or other thinking skills severe enough to reduce a person's ability to perform everyday activities. Alzheimer's disease accounts for 60 to 80 percent of cases.
+Demography: >
+  Demography is the statistical study of populations, especially human beings. 
+  Demographic analysis can cover whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity.
+Depression: >
+  Depression refers to persistent feeling of sadness.
+DevOps: >
+  DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+Diabetes: >
+  Diabetes is a group of metabolic disorders characterized by high blood sugar levels over a prolonged period of time.
+  There are three main types of diabetes;
+  (1) Type 1 diabetes is where the pancreas fails to produce enough insulin due to loss of beta cells (caused by autoimmune response).
+  (2) Type 2 diabetes (adult-onset diabetes) is casued by insulin resistance, cells fail to respond to insulin.
+  A lack of insulin may also develop.
+  (3) Gestational diabetes is when pregnant women develop high blood sugar levels.
+Diaphoretic: >
+  Diaphoretic is the medical term used to describe a substance which has the power to increase perspiration.
+Diarrhea: >
+  Diarrhea is loose, watery stools (bowel movements). 
+Digestion: >
+  Digestion refers to the capacity to break down food by mechanical and enzymatic action into substances that can be used by the body.
+Digestive Aid: >
+  A Digestive Aid is an item that aids or promotes the break down food by mechanical and enzymatic action.
+Digestive Health: >
+  The digestive system includes the salivary glands, mouth, esophagus, stomach, liver, gallbladder, pancreas, small intestine, colon, and rectum.
+Digestive: >
+  A Digestive is a food or medicine that aids or promotes the digestion of food.
+Diuretic: >
+  A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. There are several categories of diuretics. All diuretics increase the excretion of water from bodies, although each class does so in a distinct way. 
+Dysmenorrhea: >
+  Dysmenorrhea is the medical term for menstrual cramps, which are caused by uterine contractions. Primary dysmenorrhea refers to common menstrual cramps, while secondary dysmenorrhea results from a disorder in the reproductive organs.
+Dysmetabolic Syndrome: &Metabolic_Syndrome >
+  Metabolic Syndrome (aka Dysmetabolic Syndrom or Syndrome X) is a cluster of conditions that increase the risk of heart disease, stroke, and diabetes.
+  Metabolic syndrome includes high blood pressure, high blood sugar, excess body fat around the waist, and abnormal cholesterol levels.
+  The syndrome increases a person's risk for heart attack and stroke.
+  Aside from a large waist circumference, most of the disorders associated with metabolic syndrome have no symptoms.
+Ecbolic: >
+  Ecbolic is an agent used for stimulating uterine musculature.
+Economics: >
+  Knowledge concerned with the production, consumption, and transfer of wealth.
+Edema: >
+  Edema is the medical term for swelling.
+  Body parts swell from injury or inflammation. It can affect a small area or the entire body.
+  Medications, pregnancy, infections, and many other medical problems can cause edema.
+  Edema happens when your small blood vessels leak fluid into nearby tissues.
+Emollient: >
+  Emollient is an agent which softens the skin.
+Endocrine System: >
+  The endocrine system is a chemical messenger (hormone) system that regulates metabolism, growth & development, tissue function, sexual function, reproduction, sleep, mood, and more.
+Endothelial Health: >
+  The endothelium is a thin membrane that lines the inside of the heart and blood vessels.
+  Endothelial cells release substances that control vascular relaxation and contraction as well as enzymes that control blood clotting, immune function and platelet (a colorless substance in the blood) adhesion.
+Endurance: >
+  Endurance refers to the ability to the body's ability to sustain a prolonged stressful effort or activity.
+Exercise Recovery: >
+  Exercise recovery has four divisions;
+  (1) Musculoskeletal recovery from the stresses and forces of training and competition.
+  (2) Recovery of the large-scale systems that power the body during exercise, particularly the cardiovascular and cardiorespiratory systems
+  (3) Restoration of the energy stores depleted by exercise, especially carbohydrates and minerals>
+  (4) Psychological recovery is often necessitated when competitive and training stresses place a mental burden on the athlete over a period of time.
+Exercise: >
+  Exercise refers to any activity requiring physical effort, carried out to sustain or improve health and fitness.
+Expectorant: >
+  Any food or medicine which aids in the clearance of mucus from the airways, lungs, bronchi, and trachea. 
+Fatigue: >
+  Fatigue refers to extreme tiredness resulting from mental or physical exertion or illness.
+Fat Metabolism: >
+  Fats are either synthesized within cells (endogenous lipids) or derived from dietary fat (exogenous lipids). They have a diverse range of biological functions. Fat metabolism refers to the physical and chemical changes involved in the breakdown and synthesis of fats in the body. 
+Fatty Liver Disease: >
+  Fatty liver disease (hepatic steatosis) is a condition where excess fat builds up in the liver.
+Febrifuge: >
+  Febrifuge is an agent used to reduce fever.
+Fermented Foods: >
+  Fermentation is the process of using microorganisms—yeasts or bacteria in food or drink production.
+Fever: >
+  Fever refers to an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.
+Fiber: >
+  Fiber refers to dietary material containing substances such as cellulose, lignin, and pectin, that aid in digestion.
+Fibromyalgia:  >
+  Fibromyalgia (Idiopathic myalgic pain) is a chronic disorder or syndrome characterized by widespread musculoskeletal pain, fatigue, tenderness in localized areas, as well as poor sleep quality and numerous comorbidities.
+Fibrosis: >
+  Fibrosis is the thickening and scarring of connective tissue, usually as a result of injury.
+Fruits: >
+  Fruits
+Gentle Laxative: >
+  Gentle laxatives are bulk-forming laxatives, also referred to as fiber supplements, are the gentlest on your body and safest to use long term. 
+Git: >
+  Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+  Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+Glucose Regulation: >
+  Glucose Regulation (also known as Blood sugar regulation) is the process by which the levels of blood sugar, primarily glucose, are maintained by the body within a narrow range. This tight regulation is referred to as glucose homeostasis.
+Glucosidase inhibitor: >
+  Alpha-glucosidase inhibitors (AGIs) are items that prevent the digestion of carbohydrates by acting as competitive inhibitors of the enzymes needed to digest carbohydrates. Alpha-glucosidase inhibitors reduce the impact of dietary carbohydrates on blood sugar. There are a large number of natural products with alpha-glucosidase inhibitor action.
+Glutathione: >
+  Glutathione is a compound involved as a coenzyme in oxidation–reduction reactions in cells. It is a tripeptide derived from glutamic acid, cysteine, and glycine.
+Glycation: >
+  Glycation is a natural process in which the sugar in your bloodstream attaches to proteins, forming harmful new molecules called advanced glycation end products (ironically, AGEs for short). ... Glycation refers to the binding of sugars to proteins.
+Glycolysis: >
+  Glycolysis is the enzymatic breakdown of a carbohydrate (such as glucose) by way of phosphate derivatives with the production of pyruvic or lactic acid and energy stored in high-energy phosphate bonds of ATP.
+Good Cholesterol: >
+  Good Cholesterol is the non-technical term for HDL cholesterol.
+Gum Health: >
+  Gums are the tissue that surrounds the necks of teeth and covers the alveolar parts of the jaws.
+Gut Health: >
+  Gut health is the overall health of the gastrointestinal (GI) tract.  This includes effective digestion and absorption of food, and normal, stable microbiota. 
+Gynecological Cancer: >
+  Gynecologic cancer is an uncontrolled growth and spread of abnormal cells that originate from the reproductive organs.
+  There are several types of gynecologic cancers which include cervical, gestational trophoblastic disease (GTD), primary peritoneal, ovarian, uterine/endometrial, vaginal and vulvar cancers.
+Hair Health: >
+  Hair health refers to the structural integrity of hair fibers, including texture and shine, and scalp health and the rate of new hair growth.
+Headache: >
+  A painful sensation in any part of the head, ranging from sharp to dull, that may occur with other symptoms.
+Head Trauma: >
+  A head injury is any sort of injury to your brain, skull, or scalp.
+  This can range from a mild bump or bruise to a traumatic brain injury.
+  A closed head injury is any injury that doesn't break your skull.
+  An open (penetrating) head injury is one in which something breaks your scalp and skull and enters your brain.
+Healthy Lipid Profile:  >
+  Lipids include cholesterol, triglycerides, high-density lipoprotein (HDL) and low-density lipoprotein (LDL).
+  Lipids are found in your blood and stored in tissues.
+Heart Attack Prevention: >
+  Heart Attack Prevention refers to anything that can reduce your risk of a heart attack.
+Heart Attack: >
+  A heart attack is the death of a segment of heart muscle caused by a loss of blood supply.
+  The blood is usually cut off when an artery supplying the heart muscle is blocked by a blood clot.
+  If some of the heart muscle dies, a person experiences chest pain and electrical instability of the heart muscle tissue.
+Heart Disease: >
+  Heart disease refers to heart conditions involving diseased vessels, structural problems, and blood clots.
+  Types of heart disease include;
+  High Blood Pressure, Cardiac Arrest, Congestive Heart Faliure, Arrhythmia, Peripheral Artery Disease, Stroke, and Congenital Heart Disease.
+Heart Health: >
+  Heart health refers to items that promote optimal function of the heart and circulatory system.
+  Heart health involves preventing diseased vessels, structural problems, and blood clots. 
+Hepatitis: >
+  Hepatitis is an inflammation of the liver.
+  Viruses cause most cases of hepatitis.
+  The type of hepatitis is named for the virus that causes it;
+  for example, hepatitis A, hepatitis B or hepatitis C.
+  Drug or alcohol use can also cause hepatitis.
+Hepatocarcinoma: >
+  Hepatocarcinoma, also called HCC or malignant hepatoma, is the most common form of liver cancer.
+  Hepatocellular carcinoma most commonly occurs in people with liver disease, particularly in people with chronic hepatitis B and C.
+  Symptoms often don't appear in the early stages of the cancer.
+  Later, symptoms include weight loss, upper abdominal pain, or yellowing of the skin (jaundice).
+Hepatoprotective: >
+  Hepatoprotection or antihepatotoxicity is the ability to prevent damage to the liver.
+  This is opposite to the hepatotoxicity.
+Herpes: >
+  Herpes is a common sexually transmitted infection marked by genital pain and sores.
+High Blood Pressure: >
+  High Blood Pressure, also called hypertension, is a condition in which the force of the blood against the artery walls is too high.
+High Cholesterol: >
+  High Cholesterol, also called hypercholesterolemia, refers to having high amounts of cholesterol in the blood.  High cholesterol can limit blood flow, increasing risk of heart attack or stroke. It's detected by a blood test. High cholesterol has no symptoms.
+HIV: >
+  Human Immunodeficiency Virus (HIV).
+Hyperacidity:  >
+  Hyperacidity is a medical condition in which the stomach secretes a lot of acids.
+Hypercholesterolemia: >
+  Hypercholesterolemia refers to having high amounts of cholesterol in the blood.
+  High cholesterol can limit blood flow, increasing risk of heart attack or stroke.
+  It's detected by a blood test.
+  High cholesterol has no symptoms.
+Hyperglycemia: >
+  Hyperglycemia refers to an excess of glucose in the bloodstream (often associated with diabetes mellitus).
+Hyperlipidemia: >
+  Hyperlipidemia, also called hyperlipoproteinemia, is a condition in which there are high levels of fat particles (lipids) in the blood.
+Hypertension: >
+  High Blood Pressure, also called hypertension, is a condition in which the force of the blood against the artery walls is too high.
+Hyperuricemic: >
+  Hyperuricemia or hyperuricemia is an abnormally high level of uric acid in the blood.
+Hypoglycemic: >
+  Hypoclycemic or Hypoglycemia is a condition caused by a very low level of blood sugar (glucose), your body's main energy source. Hypoglycemia is often related to the treatment of diabetes. However, a variety of conditions — many rare — can cause low blood sugar in people without diabetes.
+Hypolipidemic: >
+  Hypolipidemic (lipid-lowering, anti-hyperlipidemic) items can help reduce high levels of fats (lipids) in the blood (hyperlipidemia), such as cholesterol.
+Hypothyroid: >
+  Hypothyroid (Hypothyroidism) refers to an underactive thyroid. It is a condition in which the body's thyroid gland doesn't produce enough of certain important hormones.  Symptoms can include fatigue, weight gain, mood swings, and lethargy.
+Idiopathic myalgic pain: >
+  Idiopathic myalgic pain (Fibromyalgia) is a chronic disorder characterized by widespread musculoskeletal pain, fatigue, and tenderness in localized areas.
+Immune Response: >
+  Immune Response refers to the activation of the cells and fluids in the body in the presence of antigens (toxins or foreign substances).
+Immune System: >
+  The immune system refers to all the ways that cells, tissues, and organs work together to protect the body from pathogens.
+Immunomodulation: >
+  Immunomodulation refers to an ability to alter immune response to a desired level.
+Immunomodulator: >
+  Immunomodulator refers to an ability to modify the immune response or the functioning of the immune system to a desired level.
+Immunopotentiation: >
+  Immunopotentiation can be defined as a process that directly enhances one or more specific immune functions, or modifies one or more components of the complex immunoregulatory network to achieve its effects through indirect mechanisms.
+Immunostimulant: >
+  Immunostimulant (or immunostimulator) refers to an ability to stimulate the immune system by inducing activation or increasing activity of any of its components.
+Immunotherapy: >
+  Immunotherapy is the treatment of disease by activating or suppressing the immune system. Immunotherapies designed to elicit or amplify an immune response are classified as activation immunotherapies, while immunotherapies that reduce or suppress are classified as suppression immunotherapies.
+Infection: &Infection > 
+  Infection is the invasion of an organism's body tissues by disease-causing agents, including viruses, prions, bacteria, parasites, ticks, mites, fleas, lice, fungi, and other macroparasites such as tapeworms.
+Infections: *Infection
+Inflammation: >
+  Inflammation is part of the body's immune response.
+  It occurs as a reaction to injury or infection; chemicals from the body's white blood cells are released into the blood or affected tissues.
+  This release of chemicals increases the blood flow to the area of injury or infection, and may result in redness and warmth.
+Inflammatory Bowel Disease: >
+  Ongoing inflammation of all or part of the digestive tract.
+Insomnia: >
+  Insomnia refers to difficulty falling or staying asleep and not feeling well-rested.
+Insulin Resistance: >
+  Insulin is a hormone made by the pancreas that helps control the amount of sugar (glucose) in the blood by allowing it to enter cells in your muscle, fat, and liver, where it’s used for energy. With insulin resistance, the body's cells don't respond normally to insulin. Glucose can't enter the cells as easily, so it builds up in the blood. This can eventually lead to type 2 diabetes.
+Insulin Sensitizing: >
+  Insulin-Sensitizing (antihyperglycemic) refers to an items ability to improve the sensitivity of peripheral tissues to insulin, resulting in decreased circulating insulin levels.
+Intelligence: >
+  Intelligence refers to the capacity for logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, and problem solving.
+Iron: >
+  Iron is a critical element in the metabolism of hundreds of proteins and enzymes involved in diverse body functions, such as oxygen transport, DNA synthesis, and cell growth.
+Jaundice: >
+  Jaundice is caused by a buildup of bilirubin, a waste material, in the blood. An inflamed liver or obstructed bile duct can lead to jaundice, as well as other underlying conditions. Symptoms include a yellow tinge to the skin and whites of the eyes, dark urine, and itchiness.
+Keratin Production: >
+  Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Epithelial cells make up tissues such as the hair, skin, and nails. These cells also line the internal organs and are an important part of many glands.
+Kidney Deficiency: >
+  Kidney Deficiency refers to conditions and problems with the kidneys and their function.
+  The kidneys play key roles in body function, not only by filtering the blood and getting rid of waste products, but also by balancing the electrolyte levels in the body, controlling blood pressure, and stimulating the production of red blood cells.
+Kidney Health: >
+  The Kidneys are organs that filter the blood and remove waste and excess salt and water.
+  They are also involved in regulating blood pressure, electrolyte balance, and red blood cell production in the body.
+Kidney Stones: >
+  As the kidneys filter waste from the blood, they create urine.
+  Sometimes, salts and other minerals in urine stick together to form small kidney stones.
+  These range from the size of a sugar crystal to a ping pong ball, but they are rarely noticed unless they cause a blockage.
+  They may cause intense pain if they break loose and push into the ureters, the narrow ducts leading to the bladder.
+Lauric Acid: >
+  Lauric acid is a medium-length long-chain fatty acid, or lipid, that makes up about half of the fatty acids within coconut oil.
+Learning: >
+  Learning refers to the acquisition of knowledge or skills through experience, study, or by being taught.
+Leukemia: >
+  Leukemia is a type of cancer that affects the blood and bone marrow. It hindering the body's ability to fight infection. Many types exist such as acute lymphoblastic leukemia, acute myeloid leukemia, and chronic lymphocytic leukemia.
+Liver Cancer: >
+  Liver cancer, also known as hepatic cancer and primary hepatic cancer, is cancer that starts in the liver.
+  Causes include aflatoxin, non-alcoholic fatty liver disease, and liver flukes.
+  The most common types are hepatocellular carcinoma (HCC), which makes up 80% of cases, and cholangiocarcinoma.
+Liver Health: >
+  Liver health refers to items which promotes the liver's ability to function properly.
+Liver Protection: >
+  Liver protection (hepatoprotection, antihepatotoxicity) refers to items that promotes healthy liver function and prevent damage to the liver.
+Longevity: >
+  Longevity refers to the human life span in terms of the typical length of life.
+Lung Cancer: >
+  Lung cancer refers to cancer that forms in tissues of the lung, usually in the cells lining air passages. The two main types are small cell lung cancer and non-small cell lung cancer. These types are diagnosed based on how the cells look under a microscope.
+Lung Health: >
+  Lung health refers to items that promote normal respiratory function and prevent diseases/disorders or infections that may affect the lungs.
+Lung Protection: >
+  Lung protection refers to items which reduce the risk of lung disease.
+Machine Learning: >
+  Machine learning is a field of study concerned with the design and development of algorithms and techniques that allow computers to learn.
+Malaria: >
+  Malaria is a disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes. The severity of malaria varies based on the species of plasmodium. Symptoms are chills, fever, and sweating, usually occurring a few weeks after being bitten.
+Mania: >
+  Mania refers to periods of great excitement or euphoria, delusions, and overactivity. Mania's extremely elevated and excitable moods are usually associated with bipolar disorder.
+Manic: >
+  Manic refers to wild, apparently deranged, excitement and energy. Mania refers to periods of great excitement or euphoria, delusions, and overactivity. Manic episodes of extremely elevated and excitable moods are usually associated with bipolar disorder.
+Memory: >
+  Memory refers to the processes of the brain that are used to acquire, store, retain, and later retrieve information.
+Menopause: >
+  Menopause refers to the natural decline in reproductive hormones when a woman reaches her 40s or 50s.
+Mental Stimulant: 
+Message Brokers: >
+  A message broker (also known as an integration broker or interface engine) is an intermediary computer program module that translates a message from the formal messaging protocol of the sender to the formal messaging protocol of the receiver.
+Metabolic Stimulant:
+Metabolic Syndrome: *Metabolic_Syndrome
+Mitochondrial Health: >
+  Mitochondria are the cellular generators responsible for nearly all the body's energy output.
+  Loss of function of the mitochondria speeds aging and death and has been has been linked to an array of degenerative illnesses, ranging from diabetes and neurological disorders to heart failure.
+MRSA: >
+  Methicillin-resistant Staphylococcus aureus (MRSA) refers to a group of gram-positive bacteria that are genetically distinct from other strains of Staphylococcus aureus.
+  MRSA is responsible for several difficult-to-treat infections in humans.
+Mucus Congestion: >
+  Mucus Congestion refers to a build up of mucus in your lungs and throat, causing congestion and — in severe cases — leading to difficulty breathing or swallowing. Mucus, also known as sputum, is a sticky, gelatinous material that lines your lungs, throat, mouth, nose, and sinuses. It's produced by membranes in the nose and sinuses known as the mucous membranes.  Mucus production is normal and serves many purposes, even when you're healthy. It protects the tissue that lines your lungs, throat, and nasal and sinus passages, keeping it from drying out. It also works to trap unwanted bacteria and allergens (such as dust or pollen), preventing them from spreading through your body and making you sick.
+  Mucus even contains antibodies, or enzymes, designed to kill or neutralize these harmful materials.
+  The body usually produces as much as 1.5 liters of mucus a day, even when you're not feeling sick.
+Muscle Health: >
+  Muscle is the tissue of the body which primarily functions as a source of power. Muscles are mostly made up of proteins.
+Muscle Recovery: >
+  Muscle Recovery refers to improvement in the performance of skeletal muscles used during intense or prolonged exercise.
+Muscle Relaxer: >
+  A muscle relaxant is an item that affects skeletal muscle function and decreases the muscle tone.
+  It may be used to alleviate symptoms such as muscle spasms, pain, and hyperreflexia.
+  There are two forms; neuromuscular blockers (often used during surgical procedures) and spasmolytics (used to alleviate musculoskeletal pain and spasms).
+Nail Health: >
+  Toenails and fingernails are made up of layers of a hardened protein called keratin, which is also in your hair and skin. 
+Nausea: >
+  Nausea refers to a stomach distress with distaste for food and an urge to vomit. 
+Neurasthenia: >
+  Neurasthenia is a condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (as headaches, insomnia, and irritability), is believed to result from psychological factors (as depression or emotional stress or conflict).
+Neurodepressive: >
+  Neurodepressive refers to a food or medicine which depresses nerve-cell function.
+Neurogenesis: >
+  Neurogenesis is the process by which new nervous system cells, known as neurons, are produced by neural stem cells (NSC)s in the brain.
+  During the process, neural stem cells differentiate—that is, they become any one of a number of specialised cell types—at specific times and regions in the brain.
+Neuroprotective: &Neuroprotective >
+  Neuroprotective (Neuroprotection) is the ability to protect and preserve neuronal structures and functions against damage, degeneration, or impairment.
+  Neuroprotection also implies the preservation of neuronal integrity in the midst of ongoing neurodegenerative insults, and a reduction in the rate of neuronal loss over time.
+Neuroprotection: *Neuroprotective
+Neurotoxicity: >
+  Neurotoxicity is a form of toxicity in which a biological, chemical, or physical agent produces an adverse effect on the structure or function of the central and/or peripheral nervous system.
+Non Alcoholic Fatty Liver Disease: >
+  Non-Alcoholic Fatty Liver Disease (NAFLD) is the build up of extra fat in liver cells that is not caused by alcohol.
+  Risk factors include obesity, gastric bypass surgery, high cholesterol, and type 2 diabetes.
+  Most people have no symptoms.
+  In rare cases, people may experience fatigue, pain, or weight loss.
+  Over time, inflammation and scarring of the liver (cirrhosis) can occur.
+Nootropic: >
+  Nootropic is an agent having memory-enhancing activity.
+Nutritional Bioenhancer: >
+  Nutritional Bioenhancers enhance absorption of drugs or nutrients by acting on the gastrointestinal tract.
+Obesity: >
+  Obesity refers to the condition of being grossly fat or overweight.
+Oral Health: >
+  Oral health is multi-faceted and includes the ability to speak, smile, smell, taste, touch, chew, swallow and convey a range of emotions through facial expressions with confidence and without pain, discomfort and disease of the craniofacial complex.
+Osteogenic: >
+  Osteogenic refers to the formation of bone.
+Ovarian Cancer: >
+  Ovarian Cancer refers to cancer that forms in tissues of the ovary (one of a pair of female reproductive glands in which the ova, or eggs, are formed).
+  Most ovarian cancers are either ovarian epithelial cancers (cancer that begins in the cells on the surface of the ovary) or malignant germ cell tumors (cancer that begins in egg cells).
+Oxidative Stress: >
+  Oxidative stress reflects an imbalance between the systemic manifestation of reactive oxygen species and a biological system's ability to readily detoxify the reactive intermediates or to repair the resulting damage.
+Pain Management: >
+  Pain Management is a medical approach that draws on disciplines in science and alternative healing to study the prevention, diagnosis, and treatment of pain.
+Pain: >
+  Pain is an unpleasant sensory and emotional experience that is associated with actual or potential tissue damage.
+Pancreatitis: >
+  Pancreatitis is a disease in which the pancreas becomes inflamed. Pancreatic damage happens when the digestive enzymes are activated before they are released into the small intestine and begin attacking the pancreas.
+Parasites: >
+  A parasite is an organism that lives on or in a host organism and gets its food from or at the expense of its host.
+  The three main classes of parasites that can cause disease in humans are protozoa, helminths, and ectoparasites.
+Parkinson's Disease: &Parkinsons >
+  Parkinson's disease is a long-term degenerative disorder of the central nervous system that mainly affects the motor system.
+  The symptoms usually emerge slowly and, as the disease worsens, non-motor symptoms become more common.
+  The most obvious early symptoms are tremor, rigidity, slowness of movement, and difficulty with walking.
+Parkinson's: *Parkinsons
+Photocarcinogenesis: >
+  Photocarcinogenesis refers to biochemical events that lead to the occurrence of skin cancer.
+Photoprotective: >
+  Photoprotection is the biochemical process that helps organisms cope with molecular damage caused by sunlight.
+Potassium: >
+  Potassium is a mineral (electrolyte) found in dietary foods.
+Prebiotic: >
+  Prebiotics are compounds in food that induce the growth or activity of beneficial microorganisms such as bacteria and fungi.
+  The most common example is in the gastrointestinal tract, where prebiotics can alter the composition of organisms in the gut microbiome.
+Prostate Cancer: >
+  Prostate cancer is one of the most common types of cancer in men.
+  A man's prostate is a small walnut-sized gland that produces seminal fluid and nourishes & transports the sperm.
+  Prostate cancer usually grows slowly and is initially confined to the prostate gland, where it may not cause serious harm.
+  Some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly.
+Prostate Health: >
+  The following items have demonstrated properties which contribute to prostate health.
+Relaxation: >
+  Relaxation refers to the state of being free from tension and anxiety.
+Renal Failure: >
+  Renal failure refers to when the kidneys stop working. 
+  When the kidneys fail, it means the body is no longer able to survive without dialysis treatment.
+  Acute renal failure is sudden and often only temporary loss of kidney function.
+  Chronic renal failure, also called end-stage renal disease (ESRD), is the last stage of chronic kidney disease which usually requires a transplant. 
+Renal Interstitial Fibrosis: >
+  Kidney interstitial fibrosis (IF) can be defined as the accumulation of collagen and related molecules in the interstitial extracellular matrix (a contiguous fluid-filled space between internal structures within the kidneys).
+Repetitive Stress Injuries:
+Reproductive Health: >
+  Reproductive health, or sexual health addresses the reproductive processes, functions and system at all stages of life.
+Respiratory Infections: >
+  Respiratory Infection is defined as any infectious disease of the upper or lower respiratory tract.
+Retinal Toxicity: >
+  Retinal toxicity refers to toxicity of the retina in the eyes.
+  Toxic effects on the retina are seen in the macula.
+  While early toxicity may be asymtomatic, patients with more advanced stage of toxicity may complain of color vision changes or paracentral scotomas.
+Retinopathy: >
+  Retinopathy is a disease of the retina which results in impairment or loss of vision.
+RNA Vaccine: >
+  Ribonucleic acid (RNA) vaccine was first tested in humans in COVID‐19 prevention trials in 2020.
+Science: >
+  Science is a systematic enterprise that builds and organizes knowledge in the form of explanations and predictions about nature and the universe. It is the study of nature and behaviour of the physical and natural world through the scientific method. The scientific method is defined as the observation, identification, description, experimental, investigation, and theoretical explanation of natural phenomena.
+Science and Technology: >
+  Science and technology is an interdisciplinary topic encompassing science, technology, and their interactions.
+  Studies of science and technology often include their interaction with society.
+  The history of science and technology examines how humanity's understanding of science and technology has changed over the centuries.
+  As academic fields, science and technology are often grouped with engineering and mathematics, as the STEM fields.
+  Science and technology studies give insight into the understanding and knowledge of technology, science, and knowledge from the viewpoint of the humanities and the social sciences.
+Scientific Method: >
+  The scientific method is defined as the observation, identification, description, experimental, investigation, and theoretical explanation of natural phenomena.
+Sexual Function: >
+  Sexual function is how the body reacts in different stages of the sexual response cycle.
+Skin Cancer: >
+  Skin cancer is a general term for any tumor developing from the cutaneous structures within the epidermis, dermis, or subcutaneous tissue immediately deep to the dermis. Basal cell carcinoma, squamous cell carcinoma, and melanoma are becoming increasingly common.
+Skin Health: >
+  Skin health refers to items that support skin integrity, enhance its appearance and relieve skin conditions.
+Skin Hydration: >
+  Skin hydration refers to increasing the water content of your skin cells.
+Skin Inflammation: >
+  Skin Inflammation (Inflammatory skin disease) can be classified as acute or chronic.
+  Acute inflammation results from such things as exposure to UV radiation (UVR), allergens, or chemicals.
+  If inflammation is long lasting it can cause significant and serious tissue damage.
+Spermatogenesis: >
+  Spermatogenesis refers to the production and development of mature spermatozoa.
+Stomach Cancer: >
+  Stomach cancer begins when cancer cells form in the inner lining of your stomach.
+  These cells can grow into a tumor.
+  Also called gastric cancer, the disease usually grows slowly over many years.
+Stomachic: >
+  Stomachic is an agent used to promote stomach function.
+Stress: >
+  Stress is a feeling of emotional or physical tension.
+Stroke: >
+  A stroke is classified as a cerebrovascular accident (CVA).
+  It involves damage to the brain caused by an interruption of its blood supply.
+Sunburn: >
+  Sunburn refers to a type of skin burn resulting from too much exposure to ultraviolet radiaton from sunlight or sunlamps.
+Technology: >
+  Technology is the collection of techniques and processes used in the production of goods or services or the accomplishment of objectives such as scientific investigation.
+  Technology refers to methods, systems, and devices which are the result of scientific knowledge being used for practical purposes.
+Testosterone: >
+  Testosterone is the primary male sex hormone and an anabolic steroid.
+  In male humans, testosterone plays a key role in the development of male reproductive tissues such as testes and prostate, as well as promoting secondary sexual characteristics such as increased muscle and bone mass, and the growth of body hair.
+Thrombosis: >
+  Thrombosis is the coagulation of the blood in a blood-vessel or in the heart causing an obstruction of a blood vessel by a clot formed at the site of obstruction.
+Toxoplasmosis: >
+  Toxoplasmosis is a parasitic disease caused by Toxoplasma gondii.
+  Infections with toxoplasmosis usually cause no obvious symptoms in adults.
+  Occasionally, people may have a few weeks or months of mild, flu-like illness such as muscle aches and tender lymph nodes.
+  In a small number of people, eye problems may develop.
+Ulcerative Colitis: >
+  Ulcerative Colitis is a chronic, inflammatory bowel disease that causes inflammation in the digestive tract.
+  Having ulcerative colitis puts a patient at increased risk of developing colon cancer.
+Ulcers: >
+  An ulcer is an open sore on an external or internal surface of the body, caused by a break in the skin or mucous membrane that fails to heal.
+Urinary Bladder Cancer: >
+  Cancer that begins in the bladder.
+Urinary Tract Infection: &UTI >
+  Urinary Tract Infection (UTI), also called bladder infection, is an infection in any part of the urinary system, the kidneys, bladder, or urethra.
+UTI: *UTI
+UV Protection: >
+  Ultraviolet (UV) protection refers to overall protection against photoaging; premature aging of the skin caused by repeated exposure to the sun and other UV sources. Protection aims at improving the body's tolerance to UV rays and directly preventing sun-damage to the skin.
+UV Skin Damage: >
+  UltraViolet radiation (UV) has properties of both a tumor initiator and a tumor promoter. Excessive exposure to UV carries profound health risks, including atrophy, pigmentary changes, wrinkling and malignancy. UV is epidemiologically and molecularly linked to the three most common types of skin cancer, basal cell carcinoma, squamous cell carcinoma and malignant melanoma. Genetic factors also influence risk of UV-mediated skin disease.
+Vaccine: &Vaccine >
+  Vaccines are biological preparations that theoretically enable their recipients to acquire immunity to a specific infectious disease. A vaccine is typically an antigenic preparation of a pathogenic agent (such as a bacterium or virus).  However, a vaccine can also be defined as a preparation of genetic material intended to be used by cells in the host's body to produce/manufacture an antigenic substance.
+Vaccination: *Vaccine
+Vascular Function: >
+  The vascular system, also called the circulatory system, is made up of the vessels that carry blood and lymph through the body. The arteries and veins carry blood throughout the body, delivering oxygen and nutrients to the body tissues and taking away tissue waste matter.
+Vascular Health: >
+  Vascular Health refers to the health of blood vessels. The vascular system in the body includes all of the veins and arteries.
+Vegan Protein: >
+  Plant-based foods which contain a full range of amino acids.
+Vegetable Nitrate: >
+  Vegetable Nitrate is a salt of nitric acid and found naturally in fruits, vegetables and grains.
+Version control: &VersionControl >
+  In software engineering, version control is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information.
+  Version control is a component of software configuration management.
+Version Control: *VersionControl
+Viral Disorders: >
+  A viral disease (or viral infection or infectious disease), occurs when an organism's body is invaded by pathogenic viruses, and infectious virus particles (virions) attach to and enter susceptible cells.
+Vitality: >
+  Vitality refers to exuberant physical strength or mental vigor.
+Vitamin C: >
+  An essential nutrient found mainly in fruits and vegetables.
+  The body requires vitamin C to form and maintain bones, blood vessels, and skin.
+  Vitamin C is also known as ascorbic acid.
+  Vitamin C is a water-soluble vitamin, one that cannot be stored by the body except in insignificant amounts.
+VMWare: >
+  VMware, a subsidiary of Dell Technologies, is an American cloud computing and virtualization software provider.
+Vulnerary: >
+  Vulnerary is an agent used to promote the healing of new cuts and wounds.
+Weight Control: >
+  Weight control, also referred to as weight management, is the process of maintaining a healthy body weight on the basis of a person's age, sex and height.
+Weight Loss: >
+  Weight loss refers to a reduction of the total body mass, due to a mean loss of fluid, body fat or adipose tissue or lean mass, namely bone mineral deposits, muscle, tendon, and other connective tissue.
+Workflow: >
+  A workflow consists of an orchestrated and repeatable pattern of activity, enabled by the systematic organization of resources into processes that 
+  transform materials, provide services, or process information.
+Wound Healing: >
+  Wound healing is a complex process in which the skin, and the tissues under it, repair themselves after injury.
+Yeast Infections: >
+  Yeast infection refers to an infection of the vagina caused by a fungus known as Candida.
+  A vaginal yeast infection is characterized by itching, burning, soreness, pain during intercourse and/or urination, and vaginal discharge that is typically cheesy white in color.
