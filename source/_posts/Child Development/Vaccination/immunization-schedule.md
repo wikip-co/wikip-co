@@ -74,5 +74,5 @@ Vaccines Recommended from birth to 18 years:[^2]
 [^3]: **Title:** [Hugo and Russell's Pharmaceutical Microbiology, 9th Edition](https://books.google.com/books?id=FnCiEAAAQBAJ)<br>
 **Publication:** [John Wiley & Sons](https://www.wiley.com/en-us)<br>
 **Date:** Apr 24, 2023<br>
-**Author(s):** Brendan F. Gilmore, Stephen P. Denyer
+**Author(s):** Brendan F. Gilmore, Stephen P. Denyer<br>
 **Copy:** [archive](https://drive.proton.me/urls/FEDVYAMJDC#4CT4pJelFc9C) 
