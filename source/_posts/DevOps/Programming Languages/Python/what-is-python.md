@@ -1,0 +1,14 @@
+---
+title: What is Python?
+image: python
+tags:
+- Class-based programming languages
+- Computer science
+- Cross-platform
+- Scripting languages
+---
+## Description
+
+Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+
+Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.

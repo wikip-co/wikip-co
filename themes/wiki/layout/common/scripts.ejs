@@ -1,0 +1,65 @@
+<script type="text/javascript">
+
+var search_path = "<%- url_for('search.xml') %>";
+
+var path = "<%- url_for('search.xml') %>";
+
+searchFunc(path, 'local-search-input', 'local-search-result');
+
+</script>
+
+<script>
+
+  var x = document.getElementById("categories");
+  var p = document.getElementById("recent");
+  var l = document.getElementById("allExpand");
+  var y = document.getElementById("tags");
+
+function myFunction1() {
+  
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    l.style.display = "block";
+    y.style.display = "none";
+    p.style.display = "none";    
+  } else {
+    l.style.display = "none";
+    x.style.display = "none";
+  }
+  
+}
+
+function myFunction2() {
+  
+  if (y.style.display === "none") {
+    y.style.display = "block";
+    x.style.display = "none";
+    l.style.display = "none";
+    p.style.display = "none";
+  } else {
+    y.style.display = "none";
+  }
+}
+
+function myFunction3() {
+  
+  y.style.display = "none";
+  x.style.display = "none";
+  l.style.display = "none";
+  p.style.display = "none";
+  
+}
+
+function myFunction4() {
+  
+  if (p.style.display === "none") {
+    p.style.display = "block";
+    x.style.display = "none";
+    y.style.display = "none";    
+    l.style.display = "none";
+  } else {
+    p.style.display = "none";
+  }
+}
+
+</script>

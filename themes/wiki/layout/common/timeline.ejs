@@ -1,0 +1,52 @@
+<%
+    switch (type) {
+        case 'category':
+            title = page.category;
+            icon = 'folder';
+            break;
+        case 'tag':
+            title = '' + page.tag;
+            icon = 'tag';
+            break;
+    }
+%>
+<div class="timeline timeline-wrap">
+    <div class="timeline-row timeline-row-major">
+        <span class="node"><i class="fa fa-book"></i></span>
+        <div class="content">
+        <h1>Displaying <b><%= page.posts.length %></b> item(s) related to <b>"<%= title %>"<br></b></h1>
+        <div class="article-meta">
+        <% for (var link in site.data.description) { %>
+            <% if (page.tag == link) { %>
+                <%= site.data.description[link] %>
+                <% } %>
+                <% } %>
+        <% for (var link in site.data.description) { %>
+            <% if (page.category == link) { %>
+            <%= site.data.description[link] %>
+              <% } %>
+              <% } %>
+        </div>
+        </div>
+    </div>
+    <% page.posts.sort('title').each(function (post, i) { %>
+        <div class="timeline-row">
+            <span class="node"></span>
+            <div class="content">
+                <%- partial('post/title', { post: post, index: true, class_name: 'timeline-article-title' }) %>
+                <div class="article-meta">
+                    <%- partial('post/category', { post: post }) %>
+                    <%- partial('post/tag', { post: post }) %>
+                </div>
+            </div>
+        </div>
+    <% }); %>
+</div>
+<% if (page.total > 1) { %>
+    <nav id="page-nav">
+        <%- paginator({
+            prev_text: __('nav.prev'),
+            next_text: __('nav.next')
+        }) %>
+    </nav>
+<% } %>

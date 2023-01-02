@@ -1,0 +1,43 @@
+<article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        <header class="article-header">
+            <div class="article-meta">
+                <%- partial('post/cat') %>
+                <% if (theme.history_control.enable) { 
+                    let repertory_address = `${theme.history_control.server_link}/${theme.history_control.user}/${theme.history_control.repertory}`;
+                    let file_path = `${theme.history_control.branch}/source/${post.source}`;%>
+                    <div class="article-meta-button">
+                        <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/raw/${file_path}` %>'> Source </a>
+                    </div>
+                    <div class="article-meta-button">
+                        <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/edit/${file_path}` %>'> Edit </a>
+                    </div>
+                    <div class="article-meta-button">
+                        <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/commits/${file_path}` %>'> History </a>
+                    </div>
+                <% } %>
+            </div>
+            <h1 class="article-title">
+                <span style="cursor: pointer;" onclick="myFunction3()"><%= post.title %></span>
+            </h1>
+            <div style="position: relative; margin: auto;">
+                <% if(page.image) { %>
+                    <img src="<%- site.data.resources.image_cloud %><%- site.data.resources.cloudinary_user %><%- site.data.resources.image_transform %><%- page.image %>" style="border-radius: 25px;border-width: 2px;border-style:inset;">
+                <% } else { %>
+                    <img src="<%- site.data.resources.image_cloud %><%- site.data.resources.cloudinary_user %><%- site.data.resources.image_transform %><%- page.title %>" style="border-radius: 25px;border-width: 2px;border-style:inset;">
+                <% } %>
+                <div style="text-align:justify;">
+                    <% if (page.tags && page.tags.length) { %>
+                        <br><b>Keywords</b><br><br> <%- list_tags(page.tags, { show_count: false, style: 'link', separator: ', ' }) %>
+                        <% } %>
+                <br><br><b>Outline</b>
+                </div>
+                <%- toc(page.content) %>
+
+            </div>
+        </header>
+        <div style="text-align:justify;" class="article-entry" itemprop="articleBody">
+            <%- post.content %>
+        </div>
+    </div>
+</article>

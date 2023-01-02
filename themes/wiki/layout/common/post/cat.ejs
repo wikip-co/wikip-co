@@ -1,0 +1,9 @@
+<% if (post.categories) { %>
+<div>
+    <%- list_categories(post.categories, {
+            show_count: false,
+            style: false,
+            separator: ' <i class="fa fa-angle-right"></i> '
+        }) %>
+</div>
+<% } %>

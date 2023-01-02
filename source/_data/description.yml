@@ -1,0 +1,12 @@
+# Example Metadata Dictionary
+Amazon Web Services: &AWS >
+  Amazon Web Services (AWS) is an on-demand cloud computing platform offered to individuals, companies, and governments, on a metered pay-as-you-go basis. 
+AWS: *AWS
+Antiglycation: &Glycation >
+  Glycation is a biological reaction related to hyperglycemia and diabetes that results in the formation of damaging free radicals.
+  Antiglycation refers to the ability to remove free radicals and glycation end products.
+Anti-Glycation: *Glycation
+Antinociceptive: >
+  Antinociceptive is the ability to inhibit the sensation of pain.
+  Nociception is the sensory nervous system's response to certain harmful or potentially harmful stimuli.
+  Antinociception refers to the action or process of blocking the detection of a painful or injurious stimulus by sensory neurons.

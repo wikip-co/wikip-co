@@ -1,0 +1,2 @@
+#!/bin/bash
+node --max-old-space-size=8192 node_modules/hexo-cli/bin/hexo gen -c 1 -d
