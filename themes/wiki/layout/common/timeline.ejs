@@ -53,7 +53,7 @@
 
 <% if (theme.history_control.enable) { 
 let repertory_address = `${theme.history_control.server_link}/${theme.history_control.user}/${theme.history_control.repertory}`;
-let file_path = `${theme.history_control.branch}/source/${post.source}`;%>
+let file_path = `${theme.history_control.branch}/source/${page.source}`;%>
 
 <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/new/${file_path}` %>'> New </a>
 
