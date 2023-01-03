@@ -7,6 +7,5 @@ COPY source/_posts /site/source/_posts
 COPY themes /site/themes
 RUN npm install hexo-cli -g
 RUN npm install
-COPY . /site
 CMD hexo server
 EXPOSE 4000
