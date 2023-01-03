@@ -44,7 +44,47 @@ Disadvantages associated with the use of live vaccines:
 - Since these vaccines are unable to evoke a natural infection profile for the release of antigen, they must be administered on several occasions.[^2]
 - Immunity may not reach optimal levels until the course of immunisation is complete and, except for toxin-dominated diseases where the immunogen is a toxoid, is unlikely to match the performance of a live vaccine.[^2]
 - The specificity of the immune response generated in the patient may initially be low.
-- A vaccine composed of a relatively crude cocktail of killed cells, and an immune response directed only partially towards antigenic components of the pathogen will also result in low immune response and an increase in the possibility of adverse reactions in the patient.
+- A vaccine composed of a relatively crude cocktail of killed cells, and an immune response directed only partially towards antigenic components of the pathogen will also result in low immune response and an increase in the possibility of adverse reactions in the patient.[^2]
+
+### DNA Vaccines
+
+- A development associated with research into gene therapy has been the use of DNA encoding specific virulence factors of defined pathogens to evoke an immune response.[^2]
+- Protective immunity has been reported in a trial of a human vaccine for bird flu and a West Nile virus vaccine for horses has been approved.[^2]
+- Early phase trials are also underway for COVID-19 DNA vaccines, typically encoding for the viral severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) spike protein; these have demonstrated safety and immunogenicity in humans.[^2]
+
+#### Method of Action
+
+- The DNA is introduced directly into tissue cells utilising a transdermal ‘gene gun’ and is transcribed by the recipient cells.[^2]
+- The host responds to the antigenic material produced as though it were an infection.[^2]
+- The course of release of the antigen reflects that of a natural infection and, therefore, a highly specific response is invoked.[^2]
+- The introduced DNA is eventually lost from the recipient cells and antigen release ceases.[^2]
+
+### mRNA Vaccines
+
+- The successful use of laboratory-transcribed mRNA in animals was first reported in 1990.[^2]
+- Decades of research and recent technological advances now permit the production of sufficient yields of stable, synthetic mRNA.
+- Synthetic mRNA has been employed for the development of vaccines for Zika and influenza virus and more recently in the production and widespread distribution of vaccines for SARS-CoV-2.[^2]
+
+#### Method of Action
+
+- mRNA vaccines aim to deliver a genetic code into the host cell which, upon endocytic uptake into the cytoplasm, is instantly translated to produce a protein product.[^2]
+- This protein then undergoes post-translational modification before being presented at the cell surface where it can trigger an immune response.
+
+#### Advantages over traditional vaccine design and DNA therapeutics
+
+- The synthetic mRNA is not able to integrate into the host genome, negating any risk of insertional mutagenesis.[^2]
+- The vaccines are non-infectious because they do not contain an attenuated pathogen.[^2]
+- They can be designed and produced over significantly shorter timescales.[^2]
+
+### Viral Vector Vaccines
+
+- Viral vector vaccines use a virus that is unrelated to the causative pathogen to introduce genetic material into a host cell.[^2]
+- This subsequently results in endogenous antigen production and the stimulation of an immune response.[^2]
+- Antigen production can occur in the presence (replicationcompetent vector) or absence (replication-defective vector) of further viral replication.[^2]
+- Research over the past four decades has identified numerous vectors available for use in humans and typically (although not exclusively) include adenoviruses, poxviruses and rhabdoviruses.[^2]
+- Several viralvector-based vaccines are currently available, including those for Ebola and COVID-19.[^2]
+- Vaxzevria utilises a modified chimpanzee virus (ChAdOx1) that encodes for the SARS-CoV-2 spike protein.[^2]
+- Trials in humans have shown this vaccine to produce potent humoral and cellular immune responses following two doses.[^2]
 
 [^1]: **Title:** [Skin Vaccination Methods: Gene Gun, Jet Injector, Tattoo Vaccine, and Microneedle](https://link.springer.com/chapter/10.1007/978-3-662-53273-7_30)<br>
 **Publication:** [Percutaneous Penetration Enhancers Physical Methods in Penetration Enhancement](https://doi.org/10.1007/978-3-662-53273-7)<br>
