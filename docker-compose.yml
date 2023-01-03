@@ -1,0 +1,7 @@
+---
+version: "3.5"
+services:
+  site:
+    image: anthonyrussano/wikip-co:latest
+    ports:
+      - 4000:4000
