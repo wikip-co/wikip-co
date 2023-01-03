@@ -12,7 +12,11 @@
 %>
 <div class="timeline timeline-wrap">
     <div class="timeline-row timeline-row-major">
-        <span class="node"><i class="fa fa-book"></i></span>
+        <% if (page.category != undefined) { %>
+            <a href="https://github.com/wikip-co/wikip-co/edit/main/source/_posts/template"><span class="node"><i class="fa fa-book"></i></span></a>
+            <% } else { %>
+            <span class="node"><i class="fa fa-book"></i></span>
+        <% } %>
         <div class="content">
         <h1>Displaying <b><%= page.posts.length %></b> item(s) related to <b>"<%= title %>"<br></b></h1>
         <div class="article-meta">
@@ -49,11 +53,4 @@
             next_text: __('nav.next')
         }) %>
     </nav>
-<% } %>
-
-<% if (page.category != 'undefined') {
-let repertory_address = `${theme.history_control.server_link}/${theme.history_control.user}/${theme.history_control.repertory}`;
-let file_path = `${theme.history_control.branch}/source/${page.category}`;%>
-<a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/new/${file_path}` %>'> New </a>
-<% } else { %>
 <% } %>
