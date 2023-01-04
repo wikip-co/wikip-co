@@ -7,9 +7,6 @@
                     let repertory_address = `${theme.history_control.server_link}/${theme.history_control.user}/${theme.history_control.repertory}`;
                     let file_path = `${theme.history_control.branch}/source/${post.source}`;%>
                     <div class="article-meta-button">
-                        <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/raw/${file_path}` %>'> Source </a>
-                    </div>
-                    <div class="article-meta-button">
                         <a href='<%= theme.history_control.server_link %><%= theme.history_control.user %>/<%= site.data.resources.repo %><%= `/edit/${file_path}` %>'> Edit </a>
                     </div>
                     <div class="article-meta-button">
