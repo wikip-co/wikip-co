@@ -3,7 +3,10 @@
     <%- list_categories(post.categories, {
             show_count: false,
             style: false,
-            separator: '/'
-        }) %>
+            separator: '/',
+            transform(str) {
+            return strip_html(string);
+            }
+            }) %>
 </div>
 <% } %>
