@@ -1,8 +1,1 @@
-<%- list_categories(post.categories, {
-            show_count: false,
-            style: false,
-            separator: '/',
-            transform(str) {
-            return strip_html(str);
-            }
-}) %>
+<%= post.categories %>
