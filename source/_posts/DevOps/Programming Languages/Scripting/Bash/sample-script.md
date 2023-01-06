@@ -4,141 +4,42 @@ image: bash
 tags:
 -
 ---
-## Description
+# Description
 
-A simple bash script that can be used to convert mp4/mkv/WebM media files to mp3 on Linux.
+A bash script is a series of commands written in a file. These are read and executed by the bash command-line interpreter program. The program executes line by line. For example, you can navigate to a certain path, create a folder and spawn a process inside it using the command line.[^5]
 
-## Usage
+## example
 
-This script can convert mp4, mkv and WebM video formats to mp3 audio format in few seconds.
-
-### Requirements
-
-- FFmpeg
-- Lame (mp3)
-
-### Option 1
-
-You can run the script from inside the directory with the Video files you'd like to convert to mp3.
-
-After a successful conversion, the resulting audio files will be saved under ~/Music directory with folder name being the name of the previous folder containing video files with the extension -mp3 at the end.
-
-### Option 2
-
-Alternatively you can run the script and specify the directory with the Video files you'd like to convert to mp3.
-
-After a successful conversion, the resulting audio files will be saved under ~/Music directory with folder name being the name of the previous folder containing video files with the extension -mp3 at the end.
-
-```
+```bash
 #!/usr/bin/env bash
 
-# My bash Script to convert mp4 to mp3
-# By NerdJK23
-# web: www.computingforgeeks.com
-# email: kiplangatmtai@gmail.com
-
-# Requires
-# ffmpeg installed
-# lame installed
-# Check https://computingforgeeks.com/how-to-convert-mp4-to-mp3-on-linux/
-
-echo -ne """
-1: Current directory
-2: Provide directory
-"""
-echo ""
-echo -n "Selection : "
-read selection
-
-case $selection in
-    1)
-	echo "Okay.."
-	echo ""
-	echo "Current dir is `pwd` "
-	;;
-    2)
-    echo ""
-    echo -n "Give diretory name: "
-    read dir_name
-
-# Check if given directory is valid
-if [ -d $dir_name ]; then
-    
-    cd "${$dir_name}"
-    echo "Current directory is `pwd` "
-    echo 
-else
-    echo "Invalid directory, exiting.."
-    echo ""
-    exit 10
-fi
-
-    echo
-    ;;
-    
-   *)
-       echo
-       echo "Wrong selection"
-       exit 11
-       ;;
-esac
-
-echo ""
-
-# Create dir to store mp3 files if it doesn't exist
-# First get the current directory name
-
-current_dir=`pwd`
-base_name=` basename "$current_dir"`
-
-if [[ ! -d "$base_name"-mp3 ]]; then
-    
-echo "$base_name" | xargs  -d "\n" -I {} mkdir {}-mp3
-    echo ""
-fi
-echo ""
-
-
-# Bigin to covert videos to mp3 audio files
-# -d "\n" > Change delimiter from any whitespace to end of line character 
-
-find . -name "*.mp4" -o -name "*.mkv" -o -name "*.webm" | xargs  -d "\n"  -I {} ffmpeg -i {} -b:a 320K -vn "$base_name"-mp3/{}.mp3 
-
-# remove video extensions
-
-cd "${base_name}"-mp3
-
-for file_name in *; do      
-    mv "$file_name" "`echo $file_name | sed  "s/.mp4//g;s/.mkv//g;s/.webm//g"`";
-done
-
-# Move audio directory to ~/Music
-
-if [[ ! -d ~/Music ]]; then
-    mkdir ~/Music
-fi
-cd ..
-
-mv  "$base_name"-mp3 ~/Music/
-
-# Check if conversion successfull
-
-echo ""
-
-if [[ $? -eq "0" ]];then
-    echo " All files converted successfully"
-else
-    echo "Conversation failed"
-    exit 1
-fi
-```
-
-Make the script executable:
+set -o errexit
+set -o errtrace
+set -o nounset
+set -o pipefail
 
 ```
-chmod +x mp3con.sh
-```
 
-[^1]
+## setting options
 
-[^1]: https://computingforgeeks.com/how-to-convert-mp4-to-mp3-on-linux/
+- `set -o <option>` is the generic way to set various options.
+
+### errexit
+
+- `set -e` is a shortcut for setting the `errexit` option.
+  - `set -o errexit` has the same effect.
+  - The `set -e` option instructs bash to immediately exit if any command has a non-zero exit status; subsequent lines of the script are not executed.[^4]
+  - By default, bash does not do this.. if it encounters a runtime error, it does not halt execution of the program; it keeps going and if one line in a script fails, but the last line succeeds, the whole script has a successful exit code.[^4]
+
+### errtrace
+
+- `set -E` is a shortcut for setting the `errtrace` option.
+  - `set -o errtrace` has the same effect.
+  - When `errtrace` is enabled, the `ERR` trap is also triggered when the error (a command returning a nonzero code) occurs inside a function or a subshell. Another way to put it is that the context of a function or a subshell does not inherit the `ERR` trap unless `errtrace` is enabled.[^3]
+
+
+[^1]: https://ricma.co/posts/tech/tutorials/bash-tip-tricks/
+[^2]: https://elder.dev/posts/safer-bash/
+[^3]: https://stackoverflow.com/a/25380229
+[^4]: https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425
+[^5]: https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux
