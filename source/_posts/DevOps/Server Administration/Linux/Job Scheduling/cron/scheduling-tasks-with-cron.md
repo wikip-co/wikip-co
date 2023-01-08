@@ -79,7 +79,7 @@ The format structure is listed in the file as `m h  dom mon dow   command`.
 
 The following entry would execute a shell script (`incremental-backup`) at 11:00 AM and 4:00 PM (twice) each day.
 
-`00 11, 16 * * * /home/user/bin/incremental-backup`
+`00 11,16 * * * /home/user/bin/incremental-backup`
 
 The comma separated value in a field allows us to specify that the command needs to be executed at multiple times.
 
@@ -93,7 +93,7 @@ To edit the `root` `crontab` type,
 
 ## Sources
 
-[^1] [^2] [^3] [^4] [^5] [^6]
+[^1] [^2] [^3] [^4] [^5] [^6] [^7]
 
 [^1]: https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804
 
@@ -106,3 +106,5 @@ To edit the `root` `crontab` type,
 [^5]: https://www.circuitbasics.com/how-to-write-and-run-a-shell-script-on-the-raspberry-pi/
 
 [^6]: https://crontab.guru/#0_20_*_*_*
+
+[^7]: https://stackoverflow.com/a/1802362
