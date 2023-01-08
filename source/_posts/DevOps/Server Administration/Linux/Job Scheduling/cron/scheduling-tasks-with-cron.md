@@ -2,30 +2,27 @@
 title: Scheduling Tasks with cron
 image: cron
 tags:
-- 
+- Linux Administration
+- Linux
+- Scheduling
+- Scheduled Tasks
+- Tutorials
+- Linux Tutorials
 ---
 ## Description
 
-This document outlines how to use `cron` for scheduling events.
+`cron` is a command-line utility that functions as a job scheduler on Unix-like operating systems. Users can set up and maintain a schedule of jobs, also known as cron jobs, to run periodically at fixed times, dates, or intervals. 
 
-### Prerequisites
+## Usage
 
-Install `cron` if it is not already setup on your system.
+You can create a crontab for your current user by typing:
 
-`sudo apt update && sudo apt install cron`
+`crontab -e [username]`
 
-### Basic Usage
-
-Open the terminal and type,
-
-`crontab -e`
-
-This will open the crontab (cron configuration file) for your user account.
-
-The first time you run this command it may give you the following prompt:
+The first time you run this command it should prompt you to select an editor:
 
 ```
-no crontab for anthony - using an empty one
+no crontab for <user> - using an empty one
 
 Select an editor.  To change later, run 'select-editor'.
   1. /bin/nano        <---- easiest
@@ -35,10 +32,7 @@ Select an editor.  To change later, run 'select-editor'.
 
 Choose 1-4 [1]: 
 ```
-
-I recommend selecting option 1.
-
-Then you should see a `crontab` file open on your screen that looks like this,
+You should see a `crontab` file open on your screen that looks like this,
 
 ```
 # Edit this file to introduce tasks to be run by cron.
@@ -69,21 +63,29 @@ Then you should see a `crontab` file open on your screen that looks like this,
 
 Each line you add can define one command to run and its schedule.
 
-The format structure is listed in the file as `m h  dom mon dow   command` or spelled out thats,
+The format structure is listed in the file as `m h  dom mon dow   command`.
 
-`minute (0-59)` `hour (0-23)` `day-of-month (1-31)` `month (1-12)` `day-of-week (0-7)` followed by the `command` or `/path/to/script`
+```
+.---------------- minute (0 - 59) 
+|  .------------- hour (0 - 23)
+|  |  .---------- day of month (1 - 31)
+|  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ... 
+|  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7)  OR sun,mon,tue,wed,thu,fri,sat 
+|  |  |  |  |
+*  *  *  *  *  command to be executed
+```
 
-### Examples
+### Example
 
-The following entry would execute a shell script (`incremental-backup`) at 11:00 and 16:00 (twice) each day.
+The following entry would execute a shell script (`incremental-backup`) at 11:00 AM and 4:00 PM (twice) each day.
 
 `00 11, 16 * * * /home/user/bin/incremental-backup`
 
 The comma separated value in a field allows us to specify that the command needs to be executed at multiple times.
 
-## Administrator
+## `sudo` privileges
 
-Commands that normally run with administrative privileges should be added to the `root` `crontab` file.
+Commands or scripts that normally run with `sudo` should be added to the `root` `crontab` file.
 
 To edit the `root` `crontab` type,
 
