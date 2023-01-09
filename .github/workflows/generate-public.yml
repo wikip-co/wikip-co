@@ -24,7 +24,6 @@ jobs:
         rm -Rf public
         npm install
         node --max-old-space-size=8192 node_modules/hexo-cli/bin/hexo gen -c 1 -d
-        git ls-files -z | while read -d '' path; do touch -d \"$(git log -1 --format=\"@%ct\" \"$path\")\" \"$path\"; done
     - name: commit inception level three
       uses: EndBug/add-and-commit@v9
       with:
