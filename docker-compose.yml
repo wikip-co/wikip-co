@@ -5,3 +5,5 @@ services:
     image: anthonyrussano/wikip-co:latest
     ports:
       - 4000:4000
+    volumes:
+      - ./source/_posts:/site/source/_posts
