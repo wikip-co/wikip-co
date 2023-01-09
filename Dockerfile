@@ -3,7 +3,7 @@ WORKDIR /site
 COPY package.json /site
 COPY _config.yml /site
 COPY source/_posts /site/source/_data
-COPY source/_posts /site/source/_posts
+# COPY source/_posts /site/source/_posts
 COPY themes /site/themes
 RUN npm install hexo-cli -g
 RUN npm install
