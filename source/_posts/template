@@ -1,9 +1,12 @@
 ---
-title: 
+title: Update Date
 image:
 tags:
 - 
 ---
+find a way to apply this command to each md file
+
+`git log --format="%ad" -- what-is-continuous-deployment.md | tail -1`
 
 [^1]: **Title:** []()<br>
 **Publication:** []()<br>
