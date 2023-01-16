@@ -35,7 +35,31 @@ adulthood.[^1]
 - Overall wellbeing could be part of the gut health indicators.[^1]
 - Gut health indicators include a normal quality of life in adulthood, a happy and smiling baby, and/or a long night’s sleep in young infants.[^1]
 
+[^2] [^3] [^4] [^5] [^6] [^7]
 
 [^1]: **Title:** [Early-Life Gut Health Indicators and Reported Prevalence of Infant Functional Constipation by Healthcare Professionals](https://doi.org/10.3390/nu15020298)<br>
 **Publication:** [MDPI: Nutrients](https://www.mdpi.com/journal/nutrients)<br>
 **Archive:** [archive](https://drive.proton.me/urls/MWCPWCN82G#dAcPZhhYuHzI)
+
+[^2]: **Title:** [An Investigation into the Impact of Maternal Dietary Intakes, Well-being and Breastfeeding on Longitudinal Child Health](https://researchrepository.ucd.ie/handle/10197/13357)<br>
+**Publication:** [Research Repository UCD](https://researchrepository.ucd.ie/)
+
+[^3]: **Title:** [Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study](https://doi.org/10.1080/19490976.2022.2164152)<br>
+**Publication:** [Gut Microbes](https://www.tandfonline.com/kgmi20)<br>
+**Archive:** [archive](https://drive.proton.me/urls/XFXDGE9EJW#1IQXher5soDU)
+
+[^4]: **Title:** [Prebiotic Activity of Vaginal Lactobacilli on Bifidobacteria: from Concept to Formulation](https://doi.org/10.1128/spectrum.02009-22)<br>
+**Publication:** [ASM Journals: Microbiology Spectrum](https://journals.asm.org/journal/spectrum)<br>
+**Archive:** [archive](https://drive.proton.me/urls/3RRN0WJ1SC#4j7mgAyXTCLk)
+
+[^5]: **Title:** [Breastfeeding enrichment of B. longum subsp. infantis mitigates the effect of antibiotics on the microbiota and childhood asthma risk](https://doi.org/10.1016/j.medj.2022.12.002)<br>
+**Publication:** [Science Direct: Med](https://www.sciencedirect.com/journal/med)<br>
+**Archive:** [archive](https://drive.proton.me/urls/Q20R6M2MR4#LibCURxElzAL)
+
+[^6]: **Title:** [The gut metagenome harbors metabolic and antibiotic resistance signatures of moderate-to-severe asthma](https://doi.org/10.1101/2023.01.03.522677)<br>
+**Publication:** [bioRxiv](https://www.biorxiv.org/)<br>
+**Archive:** [archive](https://drive.proton.me/urls/Q8NJS0WMBW#XAfyK1ZrSQTh)
+
+[^7]: **Title:** [Early-life exposure to per- and polyfluoroalkyl substances and infant gut microbial composition](https://journals.lww.com/environepidem/Fulltext/2023/02000/Early_life_exposure_to_per__and_polyfluoroalkyl.4.aspx)<br>
+**Publication:** [ENVIRONMENTAL EPIDEMIOLOGY](https://journals.lww.com/environepidem/pages/default.aspx)<br>
+**Archive:** [archive](https://drive.proton.me/urls/W27ZJGNHCC#LAgEK0R8b9Zn)
