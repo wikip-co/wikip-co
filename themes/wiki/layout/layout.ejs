@@ -7,7 +7,7 @@
                     <h3 class="widget-title">   
                         &nbsp;
                         <span><i onclick="myFunction3()" class="fa fa-search"></i></span>
-                        <span style="cursor: pointer;" onclick="myFunction1()">Index</span> <span style="cursor: pointer;" onclick="myFunction2()">Keywords</span> <span style="cursor: pointer;" onclick="myFunction4()">Recent</span><a style="display: none;" id='allExpand' href="#">
+                        <span style="cursor: pointer;" onclick="myFunction1()">Index</span> <span style="cursor: pointer;" onclick="myFunction2()">Keywords</span> <a style="display: none;" id='allExpand' href="#">
                             <i class="fa fa-angle-double-<%- theme.customize.category_perExpand ? 'up' : 'down' %> fa-2x"></i>
                         </a>
                     </h3>
@@ -20,29 +20,7 @@
                     <input id="local-search-input" type="search" class="ins-search-input" placeholder="Search wikip.co<%= config.root %>" />
                     <div id="local-search-result"></div>
                     <div id='tags' style="display: none; text-align:justify;"><%- tagcloud(site.tags, {min_font: 22, max_font: 42}) %></div>
-                    <div style="display: none;" id="recent">
-                        <ul id="recent-post"">
-                            <% site.posts.sort('updated', -1).limit(25).each(function(post) { %>
-                                <li>
-                                    <% if(theme.customize.thumbnail == true) { %>
-                                        <div class="item-thumbnail">
-                                            <% if(post.image) { %>
-                                                <a href="<%- url_for((post.link?post.link:post.path)) %>"><img src="<%- site.data.resources.image_cloud %><%- site.data.resources.cloudinary_user %><%- site.data.resources.image_transform %><%- post.image %>" style="border-radius: 25px;border-width: 2px;border-style:inset;"></a>
-                                            <% } else { %>
-                                                    <a href="<%- url_for((post.link?post.link:post.path)) %>"><img src="<%- site.data.resources.image_cloud %><%- site.data.resources.cloudinary_user %><%- site.data.resources.image_transform %><%- post.title %>" style="border-radius: 25px;border-width: 2px;border-style:inset;"></a>
-                                            <% } %>
-                                        </div>
-                                    <% } %>
-                                    <div style="text-indent: 1%;" class="item-inner">
-                                        <b><p class="item-title"><a href="<%- url_for((post.link?post.link:post.path)) %>" class="title"><%= post.title %></a></p></b>
-                                        <p class="item-date"><time datetime="<%= date_xml(post.date) %>" itemprop="datePublished"><%= date(post.date) %></time></p>
-                                        <p class="item-category"><%- list_categories(post.categories, {show_count: false, depth:2, class: 'article-category', style: 'none', separator: '<i class="fa fa-angle-right"></i>'}) %>
-                                        <p class="item-date">Keywords: <%- list_tags(post.tags, { show_count: false, style: 'link' }) %></p>
-                                    </div>
-                                </li>
-                            <% }) %>
-                        </ul>
-                    </div>
+                    <!-- placeholder for recent posts section --> 
                     <div style="display: none;" id='categories'>
                         <% 
                             function listCategories(categories, posts) {
