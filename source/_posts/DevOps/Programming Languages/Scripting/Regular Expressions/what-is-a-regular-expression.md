@@ -3,7 +3,7 @@ title: What is a Regular Expression?
 image: regex
 tags:
 - sed
-- AWK
+- awk
 - grep
 - regex
 ---
