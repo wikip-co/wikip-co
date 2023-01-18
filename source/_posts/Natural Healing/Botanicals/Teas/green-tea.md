@@ -5,6 +5,8 @@ tags:
 - Anticholinesterase
 - Antibacterial
 - Antioxidant
+- Brain Health
+- Neuroprotective
 - Coronary Artery Disease
 - Diabetes
 - Infections
@@ -70,6 +72,13 @@ CD206 is considered a reliable marker for M2 activation in mice and humans becau
 M2 phenotypes are activated by anti-inflammatory cytokines such as interleukin-4 (IL-4) and IL-13. These are also activated by T-helper 2 (Th2), which further upregulate scavenger receptors on M2 cell surfaces such as the mannose receptor (MRC1/CD206), and M2 phenotypes secrete anti-inflammatory cytokines such as resolution molecules.[^9]
 
 M2 microglia can inhibit inflammation, increase tissue repair and healing, and play a role in neurogenesis and functional repair. Recent studies have shown that M2 microglia assist neurogenesis in a post-stroke model; thus, so it is suitable for functional recovery.[^9]
+
+#### Neuroprotective
+
+- Green tea polyphenols increased the activity of succinate dehydrogenase, as well as that of cytochrome c oxidase.[^10]
+  - The cognitive deficit in animals which received green tea polyphenols was significantly lower than that in untreated animals.[^10]
+  - A poison, sodium azide was introduced into the hippocampal tissue of animals, the development of cognitive deficits with a decrease in the activity of succinate dehydrogenase and cytochrome c oxidase is observed.[^10]
+  - A course administration of green tea polyphenols increased the activity of succinate dehydrogenase and cytochrome-c-oxidase, which contributed to the restoration of cognitive abilities in animals.[^10]
 
 ### Cardioprotective
 
@@ -276,7 +285,15 @@ Both EGCG and standardized green tea extract can increase CD206 expression, but 
 **Institutions:** Universitas Airlangga Hospital, Surabaya, Inonesia<br>
 **[Archive](9.pdf)** 
 
-[^10]: **Title:** []()<br>
+[^10]: **Title:** [THE EFFECT OF GREEN TEA POLYPHENOLS ON THE CHANGE IN THE MITOCHONDRIAL FUNCTION OF HIPPOCAMPAL CELLS IN A DEFICIENCY IN THE ACTIVITY OF MITOCHONDRIAL COMPLEX IV](https://acta-medica-eurasica.ru/en/single/2022/4/10/)<br>
+**Publication:** [acta-medica-eurasica](https://acta-medica-eurasica.ru/en/about-en/)<br>
+**Date:** 2022<br>
+**Study Type:** Animal Study: In Vitro<br>
+**Author(s):** Pozdnyakov Dmitriy I.<br>
+**Institutions:** Department of Pharmacology, Pyatigorsk Medical and Pharmaceutical Institute, Russia<br>
+**Copy:** [archive](https://drive.proton.me/urls/0XPW577YX4#TrcAJ82AKZaa)
+
+[^11]: **Title:** []()<br>
 **Publication:** []()<br>
 **Date:** <br>
 **Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
