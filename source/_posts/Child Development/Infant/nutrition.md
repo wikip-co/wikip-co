@@ -50,28 +50,28 @@ Although breastfeeding accompanies many advantages to the health and general dev
 
 ## Brain Development
 
-- Understanding the dynamics of brain development in relation to influencing factors is critical for identifying and studying early life interventions, such as nutritional opportunities.[^1]
-- The high metabolic demand and the high degree of plasticity make early life a sensitive period for nutritional impact.[^1]
-- The non-homogenous temporal and spatial development of the brain leads to the need of nutritional intervention to be concomitant with age and stage of brain development.[^1]
-- Scientific publications of brain-nutrient findings by age are scarce for toddlers and preschool children compared to infants and school-aged children.[^1]
-- For ages one to five, observation and intervention studies have mostly explored the impact of nutrients on motor, cognitive and social-emotional benefits in stunted, autistic, or nutrient deficient populations, e.g., for iron, Vitamin D, Vitamin B-12, folic acid, spirulina and polyunsaturated fatty acids.[^1]
-  - No link was made to brain developmental dynamics, nor is the data conclusive for healthy development.[^1]
+- Understanding the dynamics of brain development in relation to influencing factors is critical for identifying and studying early life interventions, such as nutritional opportunities.[^2]
+- The high metabolic demand and the high degree of plasticity make early life a sensitive period for nutritional impact.[^2]
+- The non-homogenous temporal and spatial development of the brain leads to the need of nutritional intervention to be concomitant with age and stage of brain development.[^2]
+- Scientific publications of brain-nutrient findings by age are scarce for toddlers and preschool children compared to infants and school-aged children.[^2]
+- For ages one to five, observation and intervention studies have mostly explored the impact of nutrients on motor, cognitive and social-emotional benefits in stunted, autistic, or nutrient deficient populations, e.g., for iron, Vitamin D, Vitamin B-12, folic acid, spirulina and polyunsaturated fatty acids.[^2]
+  - No link was made to brain developmental dynamics, nor is the data conclusive for healthy development.[^2]
 
 ### Myelination
 
-- Myelination of cerebral axons begins in utero and continues into the 2nd and 3rd decades of life.[^1]
-- It advances particularly rapidly over the first 2 years of life following a specific posterior to anterior pattern and in close interplay with emerging neurobehavioral development.[^1]
-- Increasing evidence suggests alterations in myelin trajectories based on health and environmental factors.[^1]
-  - As well as differences between formula-fed and breast-fed children.[^1]
-- Differences in myelin development may be linked to developmental outcomes, as myelination has been linked to cognitive and social-emotional development in young children.[^1]
+- Myelination of cerebral axons begins in utero and continues into the 2nd and 3rd decades of life.[^2]
+- It advances particularly rapidly over the first 2 years of life following a specific posterior to anterior pattern and in close interplay with emerging neurobehavioral development.[^2]
+- Increasing evidence suggests alterations in myelin trajectories based on health and environmental factors.[^2]
+  - As well as differences between formula-fed and breast-fed children.[^2]
+- Differences in myelin development may be linked to developmental outcomes, as myelination has been linked to cognitive and social-emotional development in young children.[^2]
 
-[^1]: **Title:** [Associations between early life nutrient intakes and brain maturation show developmental dynamics from infancy to toddlerhood: A neuroimaging observation study](https://doi.org/10.1016/j.tjnut.2023.01.017)<br>
-**Publication:** [The Journal of Nutrition](https://www.sciencedirect.com/journal/the-journal-of-nutrition)<br>
-**Archive:** [archive](https://drive.proton.me/urls/B45R01K5WM#35R5EKmvekf5)
-
-[^2]: **Title:** [Early Introduction of Solid Foods in Infant’s Nutrition and Long-Term Effects on Childhood: A Systematic Review](https://doi.org/10.23958/ijirms/vol07-i12/1584)<br>
+[^1]: **Title:** [Early Introduction of Solid Foods in Infant’s Nutrition and Long-Term Effects on Childhood: A Systematic Review](https://doi.org/10.23958/ijirms/vol07-i12/1584)<br>
 **Publication:** [International Journal of Innovative Research in Medical Science](https://ijirms.in/index.php/ijirms/index)<br>
 **Archive:** [archive](https://drive.proton.me/urls/BGKD2WXP5W#CT4ESw9RpoPP)
+
+[^2]: **Title:** [Associations between early life nutrient intakes and brain maturation show developmental dynamics from infancy to toddlerhood: A neuroimaging observation study](https://doi.org/10.1016/j.tjnut.2023.01.017)<br>
+**Publication:** [The Journal of Nutrition](https://www.sciencedirect.com/journal/the-journal-of-nutrition)<br>
+**Archive:** [archive](https://drive.proton.me/urls/B45R01K5WM#35R5EKmvekf5)
 
 [^3]: **Title:** []()<br>
 **Publication:** []()<br>
