@@ -3,15 +3,19 @@ title: What is Vault?
 image: vault
 tags:
 - Identity-based access
-- Encryption
+- Encryption as a Service
+- Secrets
+- Security
 ---
+HashiCorp Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, and certificates. Vault provides encryption services that are gated by authentication and authorization methods.
+
 ## Description
 
-Vault provides secrets management, identity-based access, encrypting application data and auditing of secrets for applications, systems, and users.
+Vault is a tool for securely accessing secrets. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.[^1]
 
-Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.[^1]
+Modern systems requires access to a multitude of secrets: database credentials, API keys for external services, credentials for service-oriented architecture communication, etc.
 
-A modern system requires access to a multitude of secrets: database credentials, API keys for external services, credentials for service-oriented architecture communication, etc. Understanding who is accessing what secrets is already very difficult and platform-specific. Adding on key rolling, secure storage, and detailed audit logs is almost impossible without a custom solution. This is where Vault steps in.[^1]
+Understanding who is accessing what secrets is very difficult and platform-specific. Adding on key rolling, secure storage, and detailed audit logs is almost impossible without a custom solution. This is where Vault can be used.[^1]
 
 ## Key features
 
