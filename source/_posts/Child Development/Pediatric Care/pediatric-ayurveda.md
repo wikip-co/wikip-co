@@ -32,6 +32,6 @@ Breastfeeding may, in addition to the well-known passive protection against infe
 **Publication:** [YMT INTERNATIONAL JOURNAL OF AYURVEDIC SYSTEM OF MEDICINE](https://www.ymtayurvedcollege.org/ymt-international-journal-of-ayurvedic-system-of-medicine/)<br>
 **Archive:** [archive](https://drive.proton.me/urls/40ERR79NW4#cNXGK0C7ds3C)
 
-**[^2]: **Title:** []()<br>
+[^2]: **Title:** []()<br>
 **Publication:** []()<br>
-**Archive:** [archive]()**
+**Archive:** [archive]()
