@@ -16,6 +16,19 @@ tags:
 
 Little is known about their side effects.[^1]
 
+### Lymphadenopathy
+
+Post-vaccination lymphadenopathy is swelling of lymph nodes. Lymphadenopathy typically happens in reaction to bacterial, viral, or fungal infections, autoimmune disease, and malignancy.[^3]
+
+- It has been reported that the median time from the first vaccination to lymphadenopathy detection was 2–29 days.[^3]
+- It was also reported that post-vaccination lymphadenopathy was found at 127 ± 43 days after the first vaccination.[^3]
+
+- The number of vaccine recipients who were found to develop axillary lymphadenopathy, including subclinical axillary lymphadenopathy, was larger than that of recipients with axillary pain and swelling reported in the clinical trial.[^3]
+- Breast ultrasonography after COVID-19 vaccination revealed axillary lymphadenopathy on the side of the vaccination in as many as half of the recipients.[^3]
+- Morphologically abnormal lymph nodes are found at the higher levels (levels II/III), and normal lymph nodes are found at the lower level (level I) after COVID-19 vaccination.[^3]
+- The number of visible axillary lymph nodes in both areas was significantly higher in the vaccine group.[^3]
+- Lymphadenopathy probably occurred due to the vaccination.[^3]
+
 ### Diabetes
 
 - A link between COVID-19 vaccination, specifically Pfizer-BioNTech, with latent autoimmune diabetes in adults.[^1]
@@ -53,9 +66,10 @@ Graves' disease is an immune system disorder that results in the overproduction 
 **Institution(s):** Division of Endocrinology, Department of Medicine, Albert Einstein College of Medicine, Bronx, NY; Fleischer Institute for Diabetes and Metabolism, Montefiore Medical Center, Bronx, NY USA<br>
 **Archive:** [archive](https://drive.proton.me/urls/7ZAZC9Z1EM#Ugyf97RyKSQt)
 
-[^3]: **Title:** [](https://jamanetwork.com/journals/jamadermatology/fullarticle/2790587)<br>
-**Publication:** []()<br>
-**Archive:** [archive]()
+[^3]: **Title:** [The location of unilateral axillary lymphadenopathy after COVID-19 vaccination compared with that of metastasis from breast cancer without vaccination](https://doi.org/10.1007/s11604-023-01387-1)<br>
+**Publication:** [Japanese Journal of Radiology](https://link.springer.com/journal/11604)<br>
+**Institution(s):** Department of Radiology, St. Luke’s International Hospital, Tokyo, Japan<br>
+**Archive:** [archive](https://drive.proton.me/urls/MZDQ4404G0#2RaKLaag8tvR)
 
 [^4]: **Title:** [](https://journals.lww.com/amjdermatopathology/Abstract/2020/06000/Rubella_Vaccine_Persistence_Within_Cutaneous.12.aspx)<br>
 **Publication:** []()<br>
@@ -65,7 +79,7 @@ Graves' disease is an immune system disorder that results in the overproduction 
 **Publication:** []()<br>
 **Archive:** [archive]()
 
-[^6]: **Title:** []()<br>
+[^6]: **Title:** [](https://jamanetwork.com/journals/jamadermatology/fullarticle/2790587)<br>
 **Publication:** []()<br>
 **Archive:** [archive]()
 
