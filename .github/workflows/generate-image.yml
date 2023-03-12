@@ -3,7 +3,10 @@ name: 'build docker images'
 
 on:
   workflow_dispatch:
-
+permissions: write-all
+env:
+  GITHUB_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN }}
+  FEED_TOKEN: ${{ secrets.FEED_TOKEN }}
 jobs:
   docker:
     runs-on: ubuntu-latest
