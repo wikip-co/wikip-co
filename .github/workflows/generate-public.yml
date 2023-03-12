@@ -13,9 +13,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-      with:
-        token: ${{ env.GITHUB_TOKEN }}
     - name: Update Feed
       uses: fjogeleit/http-request-action@v1
       with:
