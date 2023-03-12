@@ -39,4 +39,4 @@ jobs:
         url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json"}'
-        data: '{"content": "Update published: https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }}"}'
+        data: '{"content": "New updates to website published! \n View details here: https://github.com/wikip-co/wikip-co/commit/${{ steps.commits.outputs.commit_long_sha }} \n Browse Repo: https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }}"}'
