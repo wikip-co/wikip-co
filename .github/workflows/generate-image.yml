@@ -52,4 +52,4 @@ jobs:
           url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
           method: 'POST'
           customHeaders: '{"Content-Type": "application/json"}'
-          data: '{"content": "New Docker Image Published (${{ steps.docker-build.outputs.imageid }}): https://hub.docker.com/r/anthonyrussano/wikip-co/tags \n View Image Layers: https://hub.docker.com/layers/anthonyrussano/wikip-co/latest/images/${{ steps.docker-build.outputs.digest }}?context=explore \n ${{ steps.docker-build.outputs.metadata }}"}'
+          data: '{"content": "New Docker Image Published (${{ steps.docker-build.outputs.imageid }}): https://hub.docker.com/r/anthonyrussano/wikip-co/tags \n View Image Layers: https://hub.docker.com/layers/anthonyrussano/wikip-co/latest/images/${{ steps.docker-build.outputs.digest }}?context=explore"}'
