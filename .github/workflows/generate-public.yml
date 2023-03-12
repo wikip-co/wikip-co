@@ -13,6 +13,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ env.GITHUB_TOKEN }}
+    - name: Install Hexo
+      run: npm install -g hexo-cli
+    - name: Build site
+      run: |
+        git checkout main
+        git pull
+        rm -Rf public
+        npm install
+        node --max-old-space-size=8192 node_modules/hexo-cli/bin/hexo gen -c 1 -d
+    - name: commit inception level three
+      id: commits
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: Anthony Russano
+        author_email: me@anthonyrussano.com
+        message: 'GitHub Actions Public'
+        pull: '--all'
     - name: Update Feed
       uses: fjogeleit/http-request-action@v1
       with:
