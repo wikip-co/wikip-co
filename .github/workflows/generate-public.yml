@@ -16,8 +16,7 @@ jobs:
     - name: Update Feed
       uses: fjogeleit/http-request-action@v1
       with:
-        url: 'https://feed.wikip.co/api/memo?openId='
+        url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
         method: 'POST'
-        bearerToken: ${{ env.FEED_TOKEN }}
         customHeaders: '{"Content-Type": "application/json"}'
         data: '{"content": "Hello from github actions"}'
