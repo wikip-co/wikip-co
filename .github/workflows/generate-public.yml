@@ -33,13 +33,10 @@ jobs:
         author_email: me@anthonyrussano.com
         message: 'GitHub Actions Public'
         pull: '--all'
-    - name: files
-      id: files
-      uses: jitterbit/get-changed-files@v1
     - name: Update Feed
       uses: fjogeleit/http-request-action@v1
       with:
         url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json"}'
-        data: '{"content": "New updates to website published! \n View details here: https://github.com/wikip-co/wikip-co/commit/${{ steps.commits.outputs.commit_long_sha }} \n Browse Repo: https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }} \n ${{ steps.files.outputs.all }}"}'
+        data: '{"content": "New updates to website published! \n View details here: https://github.com/wikip-co/wikip-co/commit/${{ steps.commits.outputs.commit_long_sha }} \n Browse Repo: https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }}"}'
