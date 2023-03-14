@@ -60,4 +60,4 @@ jobs:
           url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
           method: 'POST'
           customHeaders: '{"Content-Type": "application/json"}'
-          data: '{"content": "New Docker Image Available! \n https://hub.docker.com/r/anthonyrussano/wikip-co/tags \n ${{ steps.docker-build.outputs.imageid }}"}'
+          data: '{"content": "New Docker Image Available! \n https://hub.docker.com/r/anthonyrussano/wikip-co"}'
