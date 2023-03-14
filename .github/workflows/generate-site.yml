@@ -45,4 +45,4 @@ jobs:
         url: "https://feed.wikip.co/api/memo?openId=${{ env.FEED_TOKEN }}"
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json"}'
-        data: '{"content": "New Site Published! \n \n View changes \n \n https://github.com/wikip-co/wikip-co/commit/${{ steps.commits.outputs.commit_long_sha }} \n Browse Repo \n \n https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }}"}'
+        data: '{"content": "New Updates Published to Website! \n Cloudflare Host: https://wikip.co/ \n Fleek Host: https://ipfs.wikip.co/ \n \n Browse Source Code \n https://github.com/wikip-co/wikip-co/tree/${{ steps.commits.outputs.commit_long_sha }}"}'
