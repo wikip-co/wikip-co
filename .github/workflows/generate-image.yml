@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.github/**'
 permissions: write-all
 env:
   GITHUB_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN }}
